@@ -1,0 +1,1001 @@
+Loan_ID,Customer_ID,Gender,Married,Dependents,Education,Self_Employed,Applicant_Income,Coapplicant_Income,Loan_Amount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
+LN1000,CUST5000,Male,Yes,1,Graduate,Yes,18959,1060,93401,36,1,Rural,Approved
+LN1001,CUST5001,Female,Yes,1,Not Graduate,No,7714,3055,266758,36,1,Semiurban,Approved
+LN1002,CUST5002,Female,No,1,Graduate,No,2820,8729,312260,180,1,Urban,Rejected
+LN1003,CUST5003,Female,Yes,3+,Not Graduate,No,12390,12116,296838,36,1,Semiurban,Approved
+LN1004,CUST5004,Male,No,0,Not Graduate,No,23299,11384,266287,36,1,Rural,Approved
+LN1005,CUST5005,Female,Yes,1,Graduate,No,3498,13544,476087,180,1,Rural,Approved
+LN1006,CUST5006,Male,No,2,Not Graduate,Yes,6423,506,295710,60,1,Urban,Approved
+LN1007,CUST5007,Female,Yes,0,Not Graduate,No,21465,11906,281494,120,1,Semiurban,Rejected
+LN1008,CUST5008,Male,Yes,1,Graduate,No,12545,8713,468153,36,1,Urban,Approved
+LN1009,CUST5009,Male,Yes,2,Not Graduate,No,3789,13081,57642,120,1,Rural,Approved
+LN1010,CUST5010,Male,No,3+,Not Graduate,Yes,8923,2014,450576,120,0,Semiurban,Approved
+LN1011,CUST5011,Male,No,0,Graduate,Yes,24719,10643,106656,180,1,Rural,Approved
+LN1012,CUST5012,Male,Yes,1,Not Graduate,Yes,9992,13063,363126,360,0,Urban,Rejected
+LN1013,CUST5013,Male,Yes,2,Graduate,No,13924,5361,388908,12,1,Semiurban,Approved
+LN1014,CUST5014,Male,No,3+,Not Graduate,No,6990,7659,268995,60,1,Semiurban,Approved
+LN1015,CUST5015,Male,No,1,Graduate,No,12501,1517,192910,360,1,Semiurban,Approved
+LN1016,CUST5016,Male,No,0,Graduate,No,3748,13331,379218,60,1,Rural,Approved
+LN1017,CUST5017,Female,Yes,1,Not Graduate,Yes,13192,9764,138780,240,1,Urban,Approved
+LN1018,CUST5018,Female,No,0,Graduate,No,24074,10897,319447,36,1,Semiurban,Rejected
+LN1019,CUST5019,Male,Yes,1,Graduate,Yes,8631,7491,253730,60,1,Semiurban,Rejected
+LN1020,CUST5020,Male,No,1,Graduate,No,23771,5104,398311,120,0,Urban,Approved
+LN1021,CUST5021,Male,Yes,2,Not Graduate,No,7004,14548,311868,36,1,Rural,Approved
+LN1022,CUST5022,Female,Yes,3+,Graduate,No,2120,3054,348783,240,0,Rural,Approved
+LN1023,CUST5023,Female,No,3+,Not Graduate,No,4551,5491,351473,240,1,Rural,Approved
+LN1024,CUST5024,Male,Yes,2,Graduate,No,16916,7513,98567,360,1,Semiurban,Approved
+LN1025,CUST5025,Female,No,3+,Not Graduate,Yes,24062,4974,436341,360,0,Rural,Rejected
+LN1026,CUST5026,Female,Yes,2,Not Graduate,Yes,16937,10169,61947,360,0,Semiurban,Approved
+LN1027,CUST5027,Male,Yes,1,Graduate,No,19541,5361,122046,36,1,Semiurban,Approved
+LN1028,CUST5028,Female,No,2,Not Graduate,Yes,10747,12689,81830,12,1,Semiurban,Approved
+LN1029,CUST5029,Male,No,0,Graduate,No,2111,2703,145961,180,0,Urban,Rejected
+LN1030,CUST5030,Female,Yes,3+,Graduate,Yes,5749,13618,425617,240,1,Semiurban,Rejected
+LN1031,CUST5031,Male,No,1,Not Graduate,Yes,6848,11602,363746,180,1,Rural,Approved
+LN1032,CUST5032,Female,No,3+,Graduate,No,8945,13406,268191,180,1,Rural,Approved
+LN1033,CUST5033,Female,Yes,3+,Not Graduate,Yes,2732,10543,244102,120,1,Semiurban,Rejected
+LN1034,CUST5034,Male,Yes,3+,Not Graduate,No,22140,14491,451110,180,0,Urban,Approved
+LN1035,CUST5035,Female,No,2,Graduate,No,14492,12516,301701,360,1,Rural,Approved
+LN1036,CUST5036,Male,No,1,Not Graduate,Yes,4253,132,142151,36,1,Semiurban,Rejected
+LN1037,CUST5037,Male,No,3+,Graduate,Yes,9696,9012,452749,360,1,Semiurban,Approved
+LN1038,CUST5038,Male,Yes,3+,Graduate,No,11033,7037,243166,180,1,Urban,Approved
+LN1039,CUST5039,Female,No,1,Not Graduate,No,3611,2046,459816,360,1,Semiurban,Approved
+LN1040,CUST5040,Male,Yes,0,Graduate,No,8535,11225,300578,240,1,Rural,Approved
+LN1041,CUST5041,Female,No,2,Not Graduate,No,12934,11499,345505,240,1,Rural,Approved
+LN1042,CUST5042,Female,No,1,Graduate,Yes,10419,10335,226665,12,1,Semiurban,Approved
+LN1043,CUST5043,Male,Yes,3+,Not Graduate,Yes,16739,14546,282064,360,1,Urban,Approved
+LN1044,CUST5044,Female,Yes,1,Not Graduate,No,4576,12459,278932,240,0,Rural,Rejected
+LN1045,CUST5045,Male,No,1,Graduate,No,2272,13632,66767,240,1,Rural,Rejected
+LN1046,CUST5046,Female,No,2,Graduate,No,24259,10255,476742,120,1,Urban,Approved
+LN1047,CUST5047,Male,Yes,1,Not Graduate,Yes,7375,3574,426193,120,1,Rural,Rejected
+LN1048,CUST5048,Male,Yes,3+,Not Graduate,Yes,7937,2228,442173,120,1,Rural,Approved
+LN1049,CUST5049,Female,No,3+,Not Graduate,No,4368,9479,81683,360,1,Semiurban,Approved
+LN1050,CUST5050,Male,No,0,Graduate,Yes,17901,2305,107424,360,1,Semiurban,Approved
+LN1051,CUST5051,Male,No,1,Not Graduate,No,12663,14115,75348,240,1,Urban,Approved
+LN1052,CUST5052,Female,No,3+,Graduate,Yes,8161,5916,125228,360,1,Urban,Approved
+LN1053,CUST5053,Female,Yes,1,Graduate,Yes,17409,743,304634,36,0,Semiurban,Approved
+LN1054,CUST5054,Female,Yes,1,Not Graduate,No,7589,3791,165140,12,1,Urban,Rejected
+LN1055,CUST5055,Male,Yes,0,Not Graduate,No,14335,13116,219139,240,1,Semiurban,Rejected
+LN1056,CUST5056,Female,No,3+,Not Graduate,Yes,13430,8698,294038,180,1,Rural,Approved
+LN1057,CUST5057,Male,No,3+,Graduate,No,6778,6591,96469,360,1,Semiurban,Approved
+LN1058,CUST5058,Male,No,1,Not Graduate,No,9994,12242,405646,180,1,Semiurban,Approved
+LN1059,CUST5059,Female,No,2,Not Graduate,No,10329,11708,227009,120,1,Urban,Rejected
+LN1060,CUST5060,Female,No,1,Graduate,Yes,17251,14837,241411,360,1,Rural,Rejected
+LN1061,CUST5061,Male,Yes,1,Not Graduate,Yes,16392,13396,219646,36,0,Semiurban,Approved
+LN1062,CUST5062,Male,No,0,Not Graduate,Yes,3886,6567,332039,240,1,Semiurban,Rejected
+LN1063,CUST5063,Male,No,1,Not Graduate,Yes,3000,8374,268824,36,1,Urban,Approved
+LN1064,CUST5064,Female,Yes,3+,Graduate,Yes,6298,12329,308940,12,1,Urban,Approved
+LN1065,CUST5065,Male,Yes,3+,Not Graduate,Yes,7146,7733,202477,36,1,Urban,Rejected
+LN1066,CUST5066,Male,No,2,Graduate,Yes,23292,5350,350312,360,1,Rural,Approved
+LN1067,CUST5067,Female,No,1,Graduate,No,12749,6286,454919,60,0,Urban,Approved
+LN1068,CUST5068,Male,Yes,1,Not Graduate,Yes,7157,9279,361042,360,1,Rural,Approved
+LN1069,CUST5069,Female,Yes,0,Not Graduate,Yes,16155,10882,365282,240,1,Rural,Rejected
+LN1070,CUST5070,Male,Yes,1,Not Graduate,No,23222,8105,150769,180,1,Semiurban,Approved
+LN1071,CUST5071,Female,No,2,Not Graduate,No,8303,10301,305201,36,1,Rural,Approved
+LN1072,CUST5072,Male,Yes,2,Graduate,Yes,24312,2651,74273,360,1,Urban,Approved
+LN1073,CUST5073,Male,Yes,0,Not Graduate,No,21788,5021,170277,12,1,Rural,Approved
+LN1074,CUST5074,Male,No,1,Graduate,Yes,13977,12483,239472,36,1,Rural,Rejected
+LN1075,CUST5075,Male,No,0,Graduate,Yes,2203,2369,442142,120,1,Urban,Approved
+LN1076,CUST5076,Male,No,0,Graduate,No,21327,4436,70747,12,1,Rural,Rejected
+LN1077,CUST5077,Male,Yes,1,Graduate,Yes,17032,2639,424075,360,1,Urban,Approved
+LN1078,CUST5078,Female,Yes,3+,Graduate,No,6121,11874,302441,360,1,Semiurban,Rejected
+LN1079,CUST5079,Male,No,3+,Graduate,No,10815,6453,445351,120,0,Urban,Approved
+LN1080,CUST5080,Female,No,1,Not Graduate,No,8985,1520,160329,12,1,Rural,Rejected
+LN1081,CUST5081,Female,Yes,1,Graduate,Yes,7089,10978,307409,180,0,Rural,Approved
+LN1082,CUST5082,Male,Yes,1,Graduate,Yes,11945,13510,484838,360,1,Urban,Approved
+LN1083,CUST5083,Male,No,2,Graduate,No,14474,12426,456103,360,1,Urban,Rejected
+LN1084,CUST5084,Female,Yes,0,Graduate,Yes,15108,10357,362474,36,0,Rural,Rejected
+LN1085,CUST5085,Female,Yes,2,Graduate,Yes,3753,9201,56619,36,1,Urban,Approved
+LN1086,CUST5086,Female,Yes,2,Graduate,No,20226,5311,293254,12,1,Rural,Rejected
+LN1087,CUST5087,Male,Yes,0,Not Graduate,No,18787,14741,202591,240,1,Rural,Rejected
+LN1088,CUST5088,Female,No,0,Graduate,No,14025,11932,483172,120,1,Rural,Approved
+LN1089,CUST5089,Female,Yes,2,Graduate,No,16152,3715,171707,360,1,Rural,Approved
+LN1090,CUST5090,Female,No,2,Graduate,Yes,7262,12196,298719,120,1,Rural,Approved
+LN1091,CUST5091,Female,Yes,0,Graduate,No,14812,9844,372681,60,1,Urban,Approved
+LN1092,CUST5092,Male,Yes,0,Not Graduate,No,22212,7815,253314,240,1,Urban,Rejected
+LN1093,CUST5093,Female,Yes,0,Not Graduate,No,3590,13919,448796,12,1,Urban,Rejected
+LN1094,CUST5094,Female,Yes,3+,Not Graduate,No,23273,4252,180129,60,1,Rural,Approved
+LN1095,CUST5095,Female,Yes,2,Not Graduate,No,14658,376,74587,180,1,Semiurban,Rejected
+LN1096,CUST5096,Male,Yes,1,Graduate,Yes,3298,2450,53503,120,1,Rural,Rejected
+LN1097,CUST5097,Female,Yes,0,Graduate,No,24516,6434,347304,360,1,Urban,Rejected
+LN1098,CUST5098,Female,Yes,1,Not Graduate,No,9474,53,486778,12,1,Rural,Rejected
+LN1099,CUST5099,Male,No,3+,Not Graduate,Yes,22893,7635,424326,12,1,Semiurban,Approved
+LN1100,CUST5100,Female,Yes,1,Not Graduate,No,6561,846,431779,36,1,Rural,Rejected
+LN1101,CUST5101,Female,Yes,2,Graduate,Yes,16821,890,198211,36,0,Rural,Approved
+LN1102,CUST5102,Female,Yes,0,Not Graduate,Yes,5177,14523,127999,180,1,Rural,Approved
+LN1103,CUST5103,Male,Yes,1,Graduate,No,24031,11617,90002,360,1,Urban,Approved
+LN1104,CUST5104,Female,Yes,0,Graduate,No,10352,3179,400546,12,1,Urban,Rejected
+LN1105,CUST5105,Male,No,1,Not Graduate,Yes,9607,6105,132650,120,0,Semiurban,Rejected
+LN1106,CUST5106,Female,Yes,3+,Not Graduate,No,4384,5302,220580,120,0,Rural,Approved
+LN1107,CUST5107,Male,Yes,2,Graduate,Yes,14245,8937,456310,240,1,Urban,Approved
+LN1108,CUST5108,Female,No,1,Graduate,No,3655,8988,471547,60,0,Rural,Rejected
+LN1109,CUST5109,Female,Yes,1,Graduate,Yes,10746,10095,213523,240,1,Semiurban,Rejected
+LN1110,CUST5110,Male,Yes,0,Not Graduate,No,18436,7488,301854,240,0,Semiurban,Approved
+LN1111,CUST5111,Male,No,2,Not Graduate,No,24065,1980,451815,120,1,Rural,Approved
+LN1112,CUST5112,Female,No,2,Graduate,Yes,11304,6953,89108,180,0,Urban,Rejected
+LN1113,CUST5113,Female,Yes,3+,Graduate,No,2165,12254,405962,60,0,Rural,Rejected
+LN1114,CUST5114,Male,Yes,2,Not Graduate,No,20298,3744,432460,12,0,Urban,Approved
+LN1115,CUST5115,Female,Yes,0,Graduate,No,14784,1280,224097,240,1,Semiurban,Rejected
+LN1116,CUST5116,Female,No,2,Graduate,Yes,2758,11670,493617,36,1,Semiurban,Approved
+LN1117,CUST5117,Female,No,0,Graduate,No,12775,5777,386988,180,0,Semiurban,Rejected
+LN1118,CUST5118,Female,No,1,Graduate,Yes,23982,950,195887,36,1,Rural,Rejected
+LN1119,CUST5119,Male,Yes,3+,Not Graduate,No,10027,1832,218112,240,1,Rural,Approved
+LN1120,CUST5120,Female,No,1,Graduate,No,13274,12264,422803,12,1,Rural,Approved
+LN1121,CUST5121,Female,No,3+,Not Graduate,No,14609,10792,201216,60,1,Rural,Rejected
+LN1122,CUST5122,Male,Yes,0,Not Graduate,Yes,16029,13985,108815,180,1,Urban,Approved
+LN1123,CUST5123,Male,Yes,2,Not Graduate,No,7667,11943,166338,180,1,Urban,Rejected
+LN1124,CUST5124,Male,No,3+,Not Graduate,Yes,12195,13400,179490,12,1,Rural,Approved
+LN1125,CUST5125,Female,Yes,0,Not Graduate,No,14445,11346,320624,36,1,Semiurban,Rejected
+LN1126,CUST5126,Male,Yes,2,Not Graduate,Yes,17112,6998,122925,60,1,Semiurban,Approved
+LN1127,CUST5127,Female,No,0,Graduate,Yes,15683,4202,403415,240,0,Semiurban,Rejected
+LN1128,CUST5128,Male,Yes,2,Graduate,No,18091,5119,324207,12,1,Semiurban,Approved
+LN1129,CUST5129,Male,No,1,Not Graduate,No,9756,648,475534,360,1,Rural,Approved
+LN1130,CUST5130,Male,Yes,0,Graduate,Yes,7720,2927,497885,12,1,Semiurban,Approved
+LN1131,CUST5131,Female,No,2,Graduate,Yes,5246,5424,191785,240,1,Rural,Approved
+LN1132,CUST5132,Male,Yes,2,Not Graduate,Yes,18264,11781,51219,60,1,Rural,Rejected
+LN1133,CUST5133,Male,No,2,Not Graduate,Yes,20534,863,424450,360,1,Urban,Rejected
+LN1134,CUST5134,Female,Yes,0,Not Graduate,No,8369,7661,105655,240,1,Urban,Approved
+LN1135,CUST5135,Male,No,0,Not Graduate,Yes,6253,9366,463913,360,1,Rural,Approved
+LN1136,CUST5136,Female,Yes,1,Graduate,No,4722,5481,95835,360,0,Urban,Rejected
+LN1137,CUST5137,Male,Yes,0,Graduate,Yes,4272,3092,305769,12,1,Urban,Approved
+LN1138,CUST5138,Female,No,1,Not Graduate,No,7881,10979,244785,60,1,Rural,Approved
+LN1139,CUST5139,Male,Yes,1,Graduate,Yes,20417,437,76404,36,0,Semiurban,Approved
+LN1140,CUST5140,Female,Yes,2,Graduate,Yes,8667,9889,184108,36,0,Urban,Rejected
+LN1141,CUST5141,Male,Yes,2,Graduate,Yes,9995,13140,269232,60,1,Rural,Approved
+LN1142,CUST5142,Male,Yes,2,Not Graduate,Yes,2701,12991,272881,360,1,Semiurban,Rejected
+LN1143,CUST5143,Female,Yes,0,Not Graduate,No,20948,11541,420703,240,1,Urban,Rejected
+LN1144,CUST5144,Male,No,3+,Not Graduate,No,11886,12742,117074,12,1,Semiurban,Rejected
+LN1145,CUST5145,Male,Yes,1,Graduate,No,10895,2194,181532,36,1,Rural,Approved
+LN1146,CUST5146,Male,No,1,Graduate,No,5625,10381,459557,180,0,Rural,Approved
+LN1147,CUST5147,Male,No,2,Graduate,Yes,14902,252,124314,360,0,Urban,Rejected
+LN1148,CUST5148,Female,Yes,2,Not Graduate,Yes,16544,4059,445107,180,1,Urban,Rejected
+LN1149,CUST5149,Female,Yes,1,Not Graduate,No,17020,14288,369735,36,1,Urban,Approved
+LN1150,CUST5150,Male,Yes,3+,Graduate,No,15160,14208,279928,36,1,Semiurban,Approved
+LN1151,CUST5151,Female,Yes,3+,Graduate,Yes,10851,3450,497925,120,1,Semiurban,Approved
+LN1152,CUST5152,Male,Yes,1,Not Graduate,No,21017,11529,492977,36,1,Urban,Approved
+LN1153,CUST5153,Female,No,3+,Graduate,Yes,9725,368,109731,36,1,Semiurban,Approved
+LN1154,CUST5154,Male,Yes,3+,Not Graduate,No,16351,6467,487474,180,1,Semiurban,Approved
+LN1155,CUST5155,Male,No,3+,Not Graduate,Yes,16753,13341,157472,360,1,Urban,Approved
+LN1156,CUST5156,Male,Yes,2,Not Graduate,No,22677,14788,180821,360,1,Semiurban,Approved
+LN1157,CUST5157,Male,Yes,1,Graduate,No,20263,308,437915,60,1,Urban,Approved
+LN1158,CUST5158,Female,Yes,2,Graduate,Yes,9621,11851,75591,180,1,Semiurban,Approved
+LN1159,CUST5159,Male,No,0,Not Graduate,Yes,8302,2787,476544,180,1,Rural,Approved
+LN1160,CUST5160,Female,No,1,Not Graduate,Yes,23387,11234,471419,12,1,Urban,Rejected
+LN1161,CUST5161,Female,Yes,3+,Graduate,Yes,18320,4336,242244,360,1,Rural,Approved
+LN1162,CUST5162,Male,No,2,Not Graduate,Yes,11081,1804,150443,12,1,Rural,Approved
+LN1163,CUST5163,Male,No,2,Not Graduate,Yes,10621,14917,244411,360,1,Semiurban,Approved
+LN1164,CUST5164,Male,No,0,Graduate,Yes,9196,12874,259271,360,1,Rural,Approved
+LN1165,CUST5165,Male,Yes,3+,Not Graduate,No,15945,5840,464486,360,1,Rural,Approved
+LN1166,CUST5166,Male,Yes,3+,Graduate,Yes,17353,11122,218248,36,1,Urban,Approved
+LN1167,CUST5167,Male,Yes,1,Not Graduate,No,21473,11994,108607,36,1,Urban,Approved
+LN1168,CUST5168,Male,No,3+,Not Graduate,Yes,24290,13291,462708,240,1,Urban,Rejected
+LN1169,CUST5169,Female,Yes,2,Not Graduate,No,15414,8602,58912,120,1,Semiurban,Rejected
+LN1170,CUST5170,Male,Yes,1,Graduate,Yes,24519,13381,237819,120,1,Semiurban,Approved
+LN1171,CUST5171,Female,No,2,Not Graduate,No,5339,7531,385154,180,0,Rural,Approved
+LN1172,CUST5172,Female,Yes,1,Graduate,No,8383,2561,278999,180,0,Semiurban,Rejected
+LN1173,CUST5173,Male,No,2,Graduate,Yes,7023,14655,317104,12,1,Semiurban,Approved
+LN1174,CUST5174,Female,Yes,2,Not Graduate,Yes,18767,5299,51272,120,0,Semiurban,Approved
+LN1175,CUST5175,Male,Yes,3+,Graduate,No,12017,3179,292126,240,1,Semiurban,Approved
+LN1176,CUST5176,Male,Yes,1,Not Graduate,No,21181,5808,111895,36,1,Rural,Approved
+LN1177,CUST5177,Male,Yes,2,Graduate,No,5659,13638,57264,360,1,Semiurban,Approved
+LN1178,CUST5178,Female,No,1,Not Graduate,Yes,12122,14301,121275,12,1,Rural,Approved
+LN1179,CUST5179,Female,No,1,Not Graduate,No,19301,9199,299822,240,1,Semiurban,Approved
+LN1180,CUST5180,Female,Yes,0,Not Graduate,No,13959,14489,163203,240,1,Urban,Rejected
+LN1181,CUST5181,Male,No,1,Graduate,Yes,3731,827,274939,180,0,Rural,Approved
+LN1182,CUST5182,Female,Yes,3+,Graduate,No,16423,4478,186470,36,0,Urban,Approved
+LN1183,CUST5183,Female,No,3+,Graduate,No,21131,12476,418245,120,1,Urban,Rejected
+LN1184,CUST5184,Male,Yes,0,Graduate,No,10511,1930,358041,120,1,Rural,Approved
+LN1185,CUST5185,Female,No,0,Graduate,No,19822,10175,441717,180,1,Semiurban,Approved
+LN1186,CUST5186,Male,Yes,0,Graduate,Yes,24465,2041,64166,36,1,Urban,Approved
+LN1187,CUST5187,Female,Yes,0,Not Graduate,No,19832,6631,368308,120,1,Rural,Approved
+LN1188,CUST5188,Female,Yes,2,Not Graduate,No,4282,4151,485542,180,1,Urban,Approved
+LN1189,CUST5189,Male,No,3+,Not Graduate,Yes,24844,878,448850,60,1,Semiurban,Approved
+LN1190,CUST5190,Male,Yes,2,Graduate,Yes,12435,317,376045,36,0,Semiurban,Approved
+LN1191,CUST5191,Female,No,3+,Graduate,Yes,8538,14996,254954,120,1,Rural,Rejected
+LN1192,CUST5192,Male,Yes,2,Not Graduate,No,4099,8569,174100,60,1,Urban,Rejected
+LN1193,CUST5193,Female,No,3+,Not Graduate,Yes,4988,8365,360452,180,1,Urban,Rejected
+LN1194,CUST5194,Male,No,2,Graduate,Yes,19396,12166,439743,240,1,Urban,Approved
+LN1195,CUST5195,Male,No,0,Not Graduate,Yes,16070,2981,78685,12,1,Rural,Approved
+LN1196,CUST5196,Female,No,0,Graduate,No,10768,9708,429501,12,0,Urban,Rejected
+LN1197,CUST5197,Female,Yes,3+,Graduate,No,3399,14148,120797,120,1,Rural,Approved
+LN1198,CUST5198,Male,No,0,Not Graduate,Yes,21307,9141,135748,240,1,Rural,Rejected
+LN1199,CUST5199,Male,Yes,3+,Graduate,No,11412,8482,482397,60,1,Rural,Approved
+LN1200,CUST5200,Female,Yes,0,Not Graduate,Yes,2744,6186,80480,60,1,Urban,Approved
+LN1201,CUST5201,Female,No,2,Graduate,Yes,7860,12743,62402,240,0,Semiurban,Approved
+LN1202,CUST5202,Male,Yes,2,Graduate,No,20987,14117,123690,180,1,Urban,Approved
+LN1203,CUST5203,Male,No,1,Graduate,No,3424,10783,482204,180,1,Semiurban,Approved
+LN1204,CUST5204,Male,Yes,0,Not Graduate,No,8018,9150,339435,12,1,Semiurban,Rejected
+LN1205,CUST5205,Female,Yes,1,Not Graduate,No,10034,13685,202378,60,1,Urban,Approved
+LN1206,CUST5206,Male,Yes,0,Graduate,Yes,11748,6725,178988,180,0,Semiurban,Approved
+LN1207,CUST5207,Female,Yes,0,Not Graduate,Yes,20683,77,173271,360,1,Rural,Approved
+LN1208,CUST5208,Female,Yes,3+,Graduate,Yes,22115,2089,347367,180,1,Rural,Approved
+LN1209,CUST5209,Female,No,3+,Not Graduate,No,14967,5496,428364,240,1,Rural,Rejected
+LN1210,CUST5210,Female,Yes,0,Not Graduate,Yes,16687,3059,403003,180,1,Rural,Approved
+LN1211,CUST5211,Female,Yes,1,Graduate,No,15662,8597,280272,360,1,Rural,Rejected
+LN1212,CUST5212,Male,No,1,Not Graduate,Yes,10709,9217,340730,360,1,Semiurban,Approved
+LN1213,CUST5213,Female,No,2,Not Graduate,Yes,16059,10472,229355,60,1,Urban,Approved
+LN1214,CUST5214,Female,Yes,1,Not Graduate,Yes,9311,11921,479142,12,0,Rural,Approved
+LN1215,CUST5215,Male,Yes,0,Graduate,Yes,24103,4469,395459,12,0,Rural,Approved
+LN1216,CUST5216,Male,No,0,Graduate,No,8986,9408,51705,360,1,Rural,Rejected
+LN1217,CUST5217,Female,No,2,Graduate,Yes,3825,14197,359339,180,1,Semiurban,Approved
+LN1218,CUST5218,Female,Yes,1,Not Graduate,No,8505,4578,69909,36,1,Urban,Approved
+LN1219,CUST5219,Male,No,3+,Not Graduate,No,12628,9156,214389,60,0,Urban,Approved
+LN1220,CUST5220,Male,No,3+,Graduate,No,23832,13742,415626,180,1,Rural,Approved
+LN1221,CUST5221,Female,Yes,0,Not Graduate,Yes,7715,4720,107153,120,1,Semiurban,Rejected
+LN1222,CUST5222,Female,No,0,Graduate,Yes,4249,5336,384218,180,1,Rural,Approved
+LN1223,CUST5223,Female,Yes,1,Not Graduate,Yes,11521,9994,79594,12,1,Urban,Approved
+LN1224,CUST5224,Female,Yes,3+,Not Graduate,Yes,22139,6004,257520,120,1,Rural,Approved
+LN1225,CUST5225,Male,No,1,Graduate,Yes,22680,13086,248272,36,1,Urban,Rejected
+LN1226,CUST5226,Female,No,2,Not Graduate,Yes,14218,1994,345847,240,1,Semiurban,Approved
+LN1227,CUST5227,Female,Yes,3+,Not Graduate,No,3594,2113,456160,360,1,Urban,Rejected
+LN1228,CUST5228,Male,Yes,3+,Graduate,Yes,16513,6619,68371,180,1,Semiurban,Approved
+LN1229,CUST5229,Male,No,2,Not Graduate,No,23562,492,489675,120,1,Urban,Approved
+LN1230,CUST5230,Male,Yes,3+,Not Graduate,No,19979,3803,93164,60,1,Semiurban,Approved
+LN1231,CUST5231,Male,Yes,1,Graduate,No,21649,10361,422304,120,1,Urban,Approved
+LN1232,CUST5232,Male,Yes,0,Graduate,No,11326,14314,67033,360,1,Urban,Approved
+LN1233,CUST5233,Female,No,1,Graduate,No,22253,14004,183431,180,1,Urban,Approved
+LN1234,CUST5234,Male,Yes,3+,Not Graduate,No,22399,9881,155970,36,1,Rural,Approved
+LN1235,CUST5235,Male,Yes,0,Graduate,No,7882,610,417074,120,1,Rural,Approved
+LN1236,CUST5236,Female,No,1,Not Graduate,Yes,21903,8607,191740,180,1,Semiurban,Rejected
+LN1237,CUST5237,Female,Yes,0,Graduate,Yes,17957,6869,63210,60,1,Rural,Approved
+LN1238,CUST5238,Female,No,0,Graduate,No,9515,9804,145670,180,1,Rural,Approved
+LN1239,CUST5239,Female,No,0,Graduate,No,18022,5741,85105,36,1,Semiurban,Approved
+LN1240,CUST5240,Female,No,0,Not Graduate,Yes,3817,3347,417021,12,1,Rural,Approved
+LN1241,CUST5241,Female,No,3+,Not Graduate,Yes,24278,4143,345224,180,1,Urban,Approved
+LN1242,CUST5242,Male,Yes,2,Graduate,No,8852,8404,228277,60,0,Semiurban,Approved
+LN1243,CUST5243,Male,No,3+,Not Graduate,Yes,16411,11800,407552,60,1,Urban,Approved
+LN1244,CUST5244,Female,No,2,Graduate,Yes,16337,775,99639,120,0,Rural,Rejected
+LN1245,CUST5245,Male,Yes,2,Not Graduate,No,21754,11969,99541,12,1,Semiurban,Approved
+LN1246,CUST5246,Female,Yes,3+,Graduate,No,23839,8496,208192,180,1,Semiurban,Approved
+LN1247,CUST5247,Female,Yes,3+,Graduate,No,12680,7105,382457,240,0,Semiurban,Approved
+LN1248,CUST5248,Female,No,3+,Graduate,Yes,5222,9544,243607,360,1,Rural,Approved
+LN1249,CUST5249,Female,Yes,0,Graduate,Yes,4915,11377,262643,180,1,Semiurban,Rejected
+LN1250,CUST5250,Male,Yes,2,Graduate,No,6888,2405,109186,360,0,Urban,Rejected
+LN1251,CUST5251,Male,Yes,2,Graduate,Yes,17247,9899,491443,360,1,Semiurban,Approved
+LN1252,CUST5252,Female,Yes,0,Graduate,Yes,9942,4453,329198,12,1,Rural,Approved
+LN1253,CUST5253,Male,No,0,Not Graduate,No,24864,3820,327315,60,1,Urban,Rejected
+LN1254,CUST5254,Female,Yes,3+,Not Graduate,No,2406,13857,364517,180,1,Rural,Rejected
+LN1255,CUST5255,Female,Yes,3+,Not Graduate,No,5398,13018,430995,12,1,Semiurban,Approved
+LN1256,CUST5256,Male,Yes,1,Graduate,Yes,11656,9743,466625,120,1,Urban,Approved
+LN1257,CUST5257,Female,No,0,Graduate,No,3710,4549,484499,120,1,Urban,Rejected
+LN1258,CUST5258,Female,Yes,3+,Not Graduate,No,11733,11078,490763,240,1,Urban,Rejected
+LN1259,CUST5259,Female,Yes,1,Not Graduate,Yes,13418,11339,461342,180,1,Semiurban,Approved
+LN1260,CUST5260,Male,Yes,2,Graduate,No,9520,9420,219536,180,1,Urban,Approved
+LN1261,CUST5261,Male,Yes,2,Not Graduate,Yes,20697,4627,124835,60,1,Urban,Approved
+LN1262,CUST5262,Male,No,3+,Graduate,Yes,13080,4850,134643,36,0,Rural,Approved
+LN1263,CUST5263,Male,Yes,3+,Graduate,Yes,18864,7261,390078,240,1,Urban,Approved
+LN1264,CUST5264,Female,Yes,1,Not Graduate,Yes,19725,6901,343509,360,1,Semiurban,Approved
+LN1265,CUST5265,Female,Yes,2,Not Graduate,No,18811,2454,119473,240,1,Urban,Rejected
+LN1266,CUST5266,Male,No,2,Graduate,No,11976,1816,495010,12,1,Semiurban,Approved
+LN1267,CUST5267,Female,Yes,2,Not Graduate,Yes,6924,7382,113043,180,1,Rural,Approved
+LN1268,CUST5268,Male,No,1,Not Graduate,No,18213,4762,264407,12,0,Urban,Approved
+LN1269,CUST5269,Male,No,0,Graduate,No,7266,5717,237740,36,1,Rural,Approved
+LN1270,CUST5270,Male,Yes,0,Graduate,Yes,8047,4264,338406,180,1,Semiurban,Approved
+LN1271,CUST5271,Female,No,0,Graduate,No,7974,3575,131065,60,1,Rural,Rejected
+LN1272,CUST5272,Female,No,1,Graduate,No,14472,5051,65982,36,1,Urban,Approved
+LN1273,CUST5273,Female,Yes,2,Not Graduate,Yes,9172,7208,403210,60,0,Rural,Approved
+LN1274,CUST5274,Male,Yes,0,Not Graduate,Yes,19551,6111,405299,240,1,Rural,Approved
+LN1275,CUST5275,Female,No,1,Not Graduate,No,8421,10311,98832,12,1,Rural,Approved
+LN1276,CUST5276,Female,No,0,Graduate,No,17862,8654,130359,180,0,Rural,Rejected
+LN1277,CUST5277,Female,Yes,3+,Graduate,No,15928,5730,108271,240,1,Urban,Rejected
+LN1278,CUST5278,Female,No,1,Not Graduate,No,7797,10405,101141,360,1,Urban,Approved
+LN1279,CUST5279,Male,No,0,Graduate,No,18437,2712,186767,180,1,Urban,Approved
+LN1280,CUST5280,Male,Yes,2,Not Graduate,Yes,20667,8855,439159,12,1,Rural,Rejected
+LN1281,CUST5281,Female,Yes,2,Not Graduate,Yes,9104,7023,472258,12,1,Urban,Rejected
+LN1282,CUST5282,Female,Yes,2,Graduate,Yes,12496,6563,146634,12,1,Semiurban,Approved
+LN1283,CUST5283,Male,Yes,3+,Not Graduate,Yes,17018,6831,238108,180,1,Urban,Approved
+LN1284,CUST5284,Male,No,3+,Not Graduate,No,9188,7949,359378,60,1,Urban,Approved
+LN1285,CUST5285,Female,Yes,0,Not Graduate,No,17059,11806,235431,12,0,Urban,Approved
+LN1286,CUST5286,Male,No,0,Graduate,Yes,15164,4362,150761,12,0,Rural,Approved
+LN1287,CUST5287,Male,Yes,0,Not Graduate,Yes,2805,2501,251579,36,1,Urban,Approved
+LN1288,CUST5288,Male,Yes,2,Not Graduate,Yes,5297,4361,478456,36,1,Urban,Approved
+LN1289,CUST5289,Female,Yes,1,Not Graduate,No,2046,1531,221629,120,0,Semiurban,Approved
+LN1290,CUST5290,Female,No,0,Graduate,No,8125,740,448175,60,1,Urban,Rejected
+LN1291,CUST5291,Male,No,3+,Graduate,Yes,7695,14638,261299,240,1,Rural,Approved
+LN1292,CUST5292,Male,No,3+,Graduate,No,8083,11569,201335,240,1,Semiurban,Approved
+LN1293,CUST5293,Male,No,1,Not Graduate,Yes,16780,10422,222993,240,1,Urban,Approved
+LN1294,CUST5294,Male,Yes,1,Graduate,No,9193,10312,103445,120,1,Semiurban,Rejected
+LN1295,CUST5295,Male,Yes,3+,Graduate,Yes,14222,4254,171744,12,1,Urban,Rejected
+LN1296,CUST5296,Male,Yes,3+,Graduate,Yes,23978,4713,282000,180,1,Semiurban,Approved
+LN1297,CUST5297,Male,No,0,Not Graduate,No,21474,12605,497888,12,1,Urban,Approved
+LN1298,CUST5298,Female,No,2,Not Graduate,Yes,19549,8642,348853,240,0,Semiurban,Approved
+LN1299,CUST5299,Male,No,1,Graduate,Yes,22293,1317,312356,360,0,Urban,Approved
+LN1300,CUST5300,Male,Yes,1,Graduate,Yes,4117,9695,154140,60,0,Semiurban,Approved
+LN1301,CUST5301,Female,Yes,1,Graduate,Yes,17082,7492,373078,180,1,Rural,Rejected
+LN1302,CUST5302,Female,Yes,2,Not Graduate,Yes,24247,12812,327597,240,1,Urban,Approved
+LN1303,CUST5303,Male,Yes,3+,Not Graduate,No,19630,10393,483014,240,1,Rural,Rejected
+LN1304,CUST5304,Male,Yes,2,Graduate,No,9004,14822,178565,180,1,Urban,Approved
+LN1305,CUST5305,Female,Yes,2,Not Graduate,Yes,14206,13672,78534,12,1,Urban,Approved
+LN1306,CUST5306,Male,Yes,3+,Not Graduate,Yes,9919,1527,349434,240,1,Semiurban,Approved
+LN1307,CUST5307,Female,Yes,0,Not Graduate,No,13103,14957,299992,180,1,Urban,Rejected
+LN1308,CUST5308,Female,Yes,3+,Graduate,Yes,21796,10468,293888,180,0,Semiurban,Rejected
+LN1309,CUST5309,Male,Yes,2,Graduate,Yes,12957,1135,417868,60,1,Semiurban,Approved
+LN1310,CUST5310,Male,No,3+,Graduate,No,7043,9221,230199,12,1,Urban,Approved
+LN1311,CUST5311,Male,No,3+,Not Graduate,No,17794,9967,134504,120,1,Rural,Approved
+LN1312,CUST5312,Male,No,2,Graduate,Yes,8970,2428,180000,180,0,Rural,Approved
+LN1313,CUST5313,Male,No,0,Graduate,Yes,10306,9818,321413,360,1,Semiurban,Approved
+LN1314,CUST5314,Male,Yes,2,Graduate,Yes,7170,14000,281131,120,0,Rural,Rejected
+LN1315,CUST5315,Male,No,2,Graduate,Yes,8208,3863,228312,120,1,Rural,Approved
+LN1316,CUST5316,Female,No,0,Not Graduate,Yes,16248,6089,130281,180,1,Urban,Rejected
+LN1317,CUST5317,Female,No,0,Not Graduate,No,2906,4813,462089,60,1,Semiurban,Approved
+LN1318,CUST5318,Male,Yes,2,Not Graduate,Yes,11015,7812,63062,240,1,Semiurban,Approved
+LN1319,CUST5319,Male,Yes,2,Not Graduate,Yes,7647,695,420277,180,1,Rural,Approved
+LN1320,CUST5320,Female,Yes,1,Not Graduate,Yes,12259,784,171903,60,0,Urban,Approved
+LN1321,CUST5321,Female,Yes,2,Not Graduate,No,21493,173,306068,360,1,Semiurban,Approved
+LN1322,CUST5322,Female,No,3+,Not Graduate,Yes,14291,11201,244950,12,1,Rural,Approved
+LN1323,CUST5323,Male,Yes,3+,Graduate,No,7956,1624,467635,180,1,Rural,Approved
+LN1324,CUST5324,Male,No,2,Not Graduate,No,4322,8181,70935,60,1,Rural,Approved
+LN1325,CUST5325,Male,Yes,2,Graduate,Yes,13482,14473,443055,36,1,Semiurban,Rejected
+LN1326,CUST5326,Male,Yes,0,Not Graduate,No,19582,6366,496689,180,1,Rural,Approved
+LN1327,CUST5327,Male,No,3+,Graduate,Yes,18526,14320,373212,60,1,Urban,Approved
+LN1328,CUST5328,Male,No,2,Not Graduate,No,22786,10957,400980,120,1,Urban,Approved
+LN1329,CUST5329,Female,No,0,Graduate,Yes,7897,8965,305846,240,1,Rural,Approved
+LN1330,CUST5330,Female,Yes,1,Graduate,Yes,8625,3148,85559,360,1,Rural,Approved
+LN1331,CUST5331,Female,No,3+,Not Graduate,Yes,18416,13292,184300,360,1,Rural,Approved
+LN1332,CUST5332,Female,No,2,Graduate,Yes,6317,3896,153205,360,0,Semiurban,Approved
+LN1333,CUST5333,Female,Yes,3+,Not Graduate,No,6366,3578,68141,180,1,Semiurban,Approved
+LN1334,CUST5334,Male,No,0,Graduate,No,16877,309,94327,12,1,Semiurban,Approved
+LN1335,CUST5335,Male,Yes,1,Graduate,Yes,22528,2554,233376,60,1,Semiurban,Approved
+LN1336,CUST5336,Female,No,2,Graduate,Yes,9475,14931,392095,12,1,Rural,Approved
+LN1337,CUST5337,Female,Yes,1,Graduate,Yes,15353,4323,437123,120,0,Urban,Rejected
+LN1338,CUST5338,Male,Yes,1,Graduate,Yes,8149,14201,233478,240,1,Urban,Rejected
+LN1339,CUST5339,Male,No,1,Graduate,Yes,4811,9333,465054,36,1,Urban,Approved
+LN1340,CUST5340,Male,Yes,1,Graduate,No,4302,6221,223224,120,1,Urban,Approved
+LN1341,CUST5341,Female,No,2,Graduate,No,19366,10562,112592,12,0,Urban,Approved
+LN1342,CUST5342,Male,Yes,1,Graduate,Yes,23593,573,498920,240,1,Rural,Approved
+LN1343,CUST5343,Female,Yes,1,Not Graduate,Yes,2138,4866,367507,240,1,Semiurban,Rejected
+LN1344,CUST5344,Female,Yes,3+,Not Graduate,No,21071,1473,286679,12,0,Urban,Approved
+LN1345,CUST5345,Male,Yes,1,Graduate,Yes,22243,11460,153704,180,1,Urban,Rejected
+LN1346,CUST5346,Male,Yes,3+,Graduate,Yes,21940,12966,163977,60,1,Rural,Approved
+LN1347,CUST5347,Male,No,0,Graduate,Yes,2519,822,448555,120,1,Rural,Approved
+LN1348,CUST5348,Female,No,2,Graduate,No,24059,5066,377678,12,1,Rural,Approved
+LN1349,CUST5349,Female,No,1,Not Graduate,Yes,7237,5601,437757,36,1,Semiurban,Approved
+LN1350,CUST5350,Male,Yes,1,Not Graduate,Yes,14167,5384,182127,12,1,Semiurban,Approved
+LN1351,CUST5351,Male,No,2,Graduate,No,8517,14270,479055,36,1,Semiurban,Approved
+LN1352,CUST5352,Female,No,0,Not Graduate,Yes,24668,13681,126575,240,1,Urban,Rejected
+LN1353,CUST5353,Female,Yes,1,Graduate,Yes,10866,6799,50208,36,1,Semiurban,Approved
+LN1354,CUST5354,Male,No,1,Graduate,Yes,20724,12449,104422,36,1,Rural,Approved
+LN1355,CUST5355,Male,No,2,Not Graduate,No,5461,5098,57858,12,1,Urban,Rejected
+LN1356,CUST5356,Male,Yes,3+,Graduate,No,17446,3237,452780,36,1,Semiurban,Approved
+LN1357,CUST5357,Female,Yes,1,Not Graduate,No,6002,5795,226477,12,1,Rural,Approved
+LN1358,CUST5358,Male,No,2,Graduate,Yes,16052,10583,166134,12,1,Semiurban,Approved
+LN1359,CUST5359,Male,No,2,Graduate,No,19383,1800,243361,12,1,Rural,Approved
+LN1360,CUST5360,Female,No,1,Graduate,No,12622,5172,252017,60,1,Urban,Approved
+LN1361,CUST5361,Male,Yes,1,Not Graduate,Yes,11584,10788,114722,180,0,Semiurban,Approved
+LN1362,CUST5362,Female,Yes,0,Graduate,Yes,14653,3053,320625,12,1,Rural,Rejected
+LN1363,CUST5363,Male,Yes,1,Not Graduate,Yes,15777,14681,268414,240,1,Urban,Approved
+LN1364,CUST5364,Female,Yes,1,Graduate,No,24162,9916,210441,60,1,Urban,Approved
+LN1365,CUST5365,Male,Yes,0,Not Graduate,Yes,19959,12885,221259,180,1,Rural,Approved
+LN1366,CUST5366,Male,Yes,3+,Graduate,No,6237,10519,333655,180,1,Semiurban,Rejected
+LN1367,CUST5367,Male,Yes,2,Graduate,Yes,16434,7276,220618,12,1,Semiurban,Approved
+LN1368,CUST5368,Male,No,2,Not Graduate,No,6772,4135,114667,120,1,Urban,Approved
+LN1369,CUST5369,Female,No,3+,Not Graduate,Yes,23782,315,157937,240,1,Urban,Approved
+LN1370,CUST5370,Female,No,3+,Not Graduate,No,12241,9076,361175,120,1,Rural,Approved
+LN1371,CUST5371,Female,No,0,Graduate,Yes,11966,5869,490585,120,1,Urban,Rejected
+LN1372,CUST5372,Male,Yes,3+,Graduate,Yes,5120,9436,92612,240,0,Urban,Rejected
+LN1373,CUST5373,Female,No,0,Not Graduate,No,19564,8129,460107,180,1,Urban,Rejected
+LN1374,CUST5374,Female,Yes,3+,Graduate,No,24324,1684,496564,240,0,Urban,Approved
+LN1375,CUST5375,Female,Yes,3+,Graduate,Yes,18392,7511,89504,12,0,Urban,Rejected
+LN1376,CUST5376,Male,No,1,Graduate,Yes,3468,9983,380868,360,1,Semiurban,Approved
+LN1377,CUST5377,Male,No,3+,Graduate,Yes,3792,2080,200412,36,1,Semiurban,Approved
+LN1378,CUST5378,Female,Yes,1,Not Graduate,No,2195,14790,368836,36,1,Semiurban,Approved
+LN1379,CUST5379,Female,No,3+,Graduate,Yes,20088,5812,56133,180,1,Semiurban,Rejected
+LN1380,CUST5380,Female,No,3+,Graduate,Yes,10597,2287,99005,12,1,Semiurban,Rejected
+LN1381,CUST5381,Female,No,0,Graduate,Yes,6330,7695,296289,240,1,Urban,Rejected
+LN1382,CUST5382,Female,Yes,2,Not Graduate,Yes,18147,2134,408372,180,1,Rural,Rejected
+LN1383,CUST5383,Female,Yes,3+,Not Graduate,No,17035,5528,175651,120,0,Rural,Rejected
+LN1384,CUST5384,Male,Yes,3+,Not Graduate,Yes,10172,4887,352207,36,0,Semiurban,Approved
+LN1385,CUST5385,Male,No,2,Not Graduate,No,6615,13453,222326,180,1,Rural,Approved
+LN1386,CUST5386,Female,No,0,Graduate,Yes,16770,3997,401546,12,0,Rural,Rejected
+LN1387,CUST5387,Male,Yes,3+,Not Graduate,No,20994,4539,216587,360,1,Urban,Approved
+LN1388,CUST5388,Male,Yes,0,Graduate,No,20964,13873,57359,180,1,Semiurban,Approved
+LN1389,CUST5389,Female,No,3+,Graduate,Yes,7268,9269,288565,240,1,Urban,Approved
+LN1390,CUST5390,Female,No,2,Not Graduate,Yes,12268,13762,409729,120,1,Rural,Rejected
+LN1391,CUST5391,Male,Yes,0,Not Graduate,Yes,23486,9083,472894,180,0,Urban,Approved
+LN1392,CUST5392,Female,Yes,1,Not Graduate,No,7438,13908,67877,360,0,Semiurban,Approved
+LN1393,CUST5393,Female,Yes,2,Graduate,Yes,12091,4594,296701,240,1,Urban,Rejected
+LN1394,CUST5394,Male,No,0,Graduate,No,17282,4102,328510,360,1,Semiurban,Approved
+LN1395,CUST5395,Male,Yes,1,Graduate,No,9183,6668,409933,240,1,Semiurban,Rejected
+LN1396,CUST5396,Female,Yes,3+,Graduate,Yes,17175,12215,388724,36,1,Urban,Rejected
+LN1397,CUST5397,Female,No,1,Not Graduate,Yes,5474,3524,180032,36,1,Urban,Approved
+LN1398,CUST5398,Female,Yes,2,Not Graduate,No,9445,1888,132854,12,1,Rural,Approved
+LN1399,CUST5399,Female,No,0,Graduate,Yes,9531,9751,314313,360,1,Urban,Rejected
+LN1400,CUST5400,Male,Yes,0,Not Graduate,No,13631,3476,165383,36,0,Semiurban,Rejected
+LN1401,CUST5401,Male,No,3+,Graduate,No,11567,3689,338001,240,1,Rural,Approved
+LN1402,CUST5402,Male,Yes,3+,Not Graduate,No,16789,1925,284817,12,1,Semiurban,Approved
+LN1403,CUST5403,Female,No,2,Graduate,No,16034,5498,283687,36,1,Urban,Approved
+LN1404,CUST5404,Female,Yes,0,Graduate,No,16703,1709,173381,120,1,Urban,Approved
+LN1405,CUST5405,Female,No,3+,Not Graduate,No,9466,11778,316287,60,1,Rural,Approved
+LN1406,CUST5406,Female,No,2,Not Graduate,Yes,11274,9032,66508,36,1,Rural,Rejected
+LN1407,CUST5407,Male,Yes,3+,Graduate,No,14526,8731,321875,120,1,Semiurban,Approved
+LN1408,CUST5408,Female,Yes,1,Not Graduate,No,7822,14181,57709,240,1,Semiurban,Approved
+LN1409,CUST5409,Male,No,2,Graduate,Yes,9167,8704,232206,60,1,Urban,Approved
+LN1410,CUST5410,Male,No,3+,Graduate,No,8400,14971,163385,180,0,Semiurban,Approved
+LN1411,CUST5411,Female,No,0,Graduate,Yes,9773,14744,217179,60,1,Semiurban,Approved
+LN1412,CUST5412,Female,Yes,2,Not Graduate,Yes,7393,5515,390900,120,1,Semiurban,Approved
+LN1413,CUST5413,Female,Yes,0,Not Graduate,Yes,19734,545,169741,60,0,Urban,Rejected
+LN1414,CUST5414,Male,Yes,1,Graduate,No,16881,8019,254857,360,1,Rural,Approved
+LN1415,CUST5415,Female,No,1,Graduate,No,20478,3735,147046,120,1,Semiurban,Approved
+LN1416,CUST5416,Female,No,1,Not Graduate,No,8230,9564,160625,60,1,Urban,Rejected
+LN1417,CUST5417,Male,Yes,1,Not Graduate,Yes,13752,11381,194142,120,1,Rural,Rejected
+LN1418,CUST5418,Male,No,1,Not Graduate,Yes,24866,12557,313000,12,1,Rural,Approved
+LN1419,CUST5419,Male,Yes,2,Not Graduate,Yes,2067,12439,429060,240,1,Semiurban,Rejected
+LN1420,CUST5420,Male,Yes,2,Graduate,No,19127,8507,314896,360,0,Urban,Rejected
+LN1421,CUST5421,Male,No,1,Not Graduate,Yes,11906,6158,95524,120,0,Semiurban,Rejected
+LN1422,CUST5422,Male,No,1,Graduate,Yes,8060,12766,352087,360,1,Urban,Approved
+LN1423,CUST5423,Female,No,2,Graduate,No,14589,13396,407815,360,0,Urban,Rejected
+LN1424,CUST5424,Female,Yes,2,Not Graduate,No,15530,13256,373256,36,1,Urban,Rejected
+LN1425,CUST5425,Male,No,3+,Graduate,Yes,5343,4960,493098,240,1,Urban,Approved
+LN1426,CUST5426,Male,Yes,1,Graduate,Yes,11796,14793,449029,36,1,Semiurban,Rejected
+LN1427,CUST5427,Female,Yes,1,Not Graduate,No,5913,5857,116977,120,1,Semiurban,Approved
+LN1428,CUST5428,Male,Yes,1,Not Graduate,No,2436,6262,355729,360,1,Rural,Approved
+LN1429,CUST5429,Male,Yes,3+,Not Graduate,Yes,24397,14064,249498,240,0,Rural,Approved
+LN1430,CUST5430,Male,No,1,Graduate,Yes,15409,7245,122454,180,1,Rural,Approved
+LN1431,CUST5431,Female,No,0,Graduate,No,3397,12076,246495,360,1,Semiurban,Approved
+LN1432,CUST5432,Male,No,0,Not Graduate,No,12618,3035,426085,120,1,Rural,Rejected
+LN1433,CUST5433,Male,Yes,3+,Graduate,No,14763,2452,204713,12,1,Urban,Rejected
+LN1434,CUST5434,Male,Yes,2,Not Graduate,No,5868,1575,65946,180,1,Semiurban,Approved
+LN1435,CUST5435,Female,Yes,0,Not Graduate,Yes,24680,9591,348314,60,1,Urban,Rejected
+LN1436,CUST5436,Female,Yes,2,Not Graduate,No,12859,7342,473644,60,0,Rural,Approved
+LN1437,CUST5437,Male,Yes,3+,Graduate,No,15567,5776,220586,240,1,Semiurban,Approved
+LN1438,CUST5438,Male,No,1,Graduate,No,13208,14388,195764,360,1,Semiurban,Approved
+LN1439,CUST5439,Female,Yes,2,Graduate,No,16115,12439,478773,36,1,Rural,Approved
+LN1440,CUST5440,Male,Yes,3+,Graduate,No,24390,2827,126697,12,1,Urban,Approved
+LN1441,CUST5441,Female,Yes,1,Not Graduate,No,22061,12515,351499,36,1,Urban,Rejected
+LN1442,CUST5442,Male,No,3+,Not Graduate,No,22455,9710,84814,360,1,Rural,Approved
+LN1443,CUST5443,Female,Yes,3+,Not Graduate,No,9819,8382,385255,360,1,Semiurban,Approved
+LN1444,CUST5444,Female,Yes,2,Not Graduate,Yes,16409,12950,363936,360,1,Semiurban,Approved
+LN1445,CUST5445,Female,No,3+,Not Graduate,Yes,17508,8113,144478,240,0,Urban,Rejected
+LN1446,CUST5446,Female,Yes,0,Graduate,No,22813,1403,119248,240,1,Semiurban,Rejected
+LN1447,CUST5447,Female,Yes,2,Not Graduate,Yes,17078,11042,81576,120,1,Rural,Rejected
+LN1448,CUST5448,Female,Yes,3+,Not Graduate,Yes,23970,9804,251526,12,0,Rural,Approved
+LN1449,CUST5449,Male,Yes,0,Not Graduate,No,14409,1146,166624,360,1,Urban,Approved
+LN1450,CUST5450,Male,No,1,Graduate,No,5891,1305,183648,240,0,Semiurban,Approved
+LN1451,CUST5451,Male,Yes,1,Not Graduate,No,15512,493,492791,120,1,Semiurban,Approved
+LN1452,CUST5452,Female,Yes,1,Graduate,Yes,12720,7021,414143,60,1,Semiurban,Approved
+LN1453,CUST5453,Male,No,1,Graduate,Yes,18343,7190,428694,240,1,Rural,Approved
+LN1454,CUST5454,Male,Yes,0,Graduate,No,6732,14410,282169,60,1,Rural,Approved
+LN1455,CUST5455,Male,Yes,2,Graduate,Yes,8781,14385,175210,360,1,Semiurban,Approved
+LN1456,CUST5456,Female,No,1,Not Graduate,Yes,8172,12495,299411,12,1,Rural,Rejected
+LN1457,CUST5457,Female,Yes,1,Graduate,Yes,15280,13814,315950,180,1,Urban,Approved
+LN1458,CUST5458,Female,No,1,Not Graduate,Yes,14650,11612,216259,240,1,Urban,Rejected
+LN1459,CUST5459,Female,No,2,Not Graduate,Yes,17799,277,246606,120,0,Urban,Rejected
+LN1460,CUST5460,Male,Yes,2,Graduate,Yes,13370,10245,61317,360,1,Urban,Approved
+LN1461,CUST5461,Male,No,1,Graduate,No,16249,3300,426251,120,1,Rural,Approved
+LN1462,CUST5462,Male,Yes,3+,Not Graduate,No,9402,10231,321254,360,0,Urban,Rejected
+LN1463,CUST5463,Female,Yes,3+,Not Graduate,No,3574,13124,418463,180,0,Rural,Approved
+LN1464,CUST5464,Male,No,3+,Not Graduate,No,13778,11990,339220,360,1,Rural,Approved
+LN1465,CUST5465,Female,No,0,Not Graduate,Yes,10865,10716,472104,180,1,Rural,Approved
+LN1466,CUST5466,Female,No,1,Not Graduate,No,13396,4808,76053,360,0,Semiurban,Approved
+LN1467,CUST5467,Male,No,0,Not Graduate,No,14285,3098,324695,240,1,Semiurban,Approved
+LN1468,CUST5468,Female,Yes,0,Not Graduate,No,22474,10693,283825,360,1,Rural,Approved
+LN1469,CUST5469,Female,Yes,3+,Not Graduate,No,5406,14966,165925,36,1,Rural,Approved
+LN1470,CUST5470,Female,Yes,1,Graduate,No,21747,4757,488825,60,1,Semiurban,Approved
+LN1471,CUST5471,Female,No,3+,Not Graduate,Yes,13682,9156,442085,12,1,Rural,Rejected
+LN1472,CUST5472,Female,No,0,Graduate,No,10894,6566,365240,12,1,Rural,Approved
+LN1473,CUST5473,Female,Yes,2,Graduate,Yes,21697,6237,118996,120,1,Semiurban,Rejected
+LN1474,CUST5474,Female,Yes,2,Not Graduate,Yes,9699,14449,237744,360,1,Semiurban,Approved
+LN1475,CUST5475,Female,Yes,0,Graduate,Yes,9766,5373,70360,60,0,Urban,Approved
+LN1476,CUST5476,Male,Yes,3+,Not Graduate,No,11790,92,372693,240,1,Semiurban,Rejected
+LN1477,CUST5477,Female,Yes,0,Graduate,Yes,16075,12086,424373,120,0,Rural,Approved
+LN1478,CUST5478,Female,No,2,Graduate,No,11935,2074,107568,60,1,Semiurban,Rejected
+LN1479,CUST5479,Male,Yes,0,Not Graduate,No,19284,12283,82324,240,1,Semiurban,Approved
+LN1480,CUST5480,Female,Yes,1,Graduate,No,7136,8639,118938,120,0,Rural,Approved
+LN1481,CUST5481,Male,Yes,1,Graduate,Yes,14554,12683,116615,240,1,Rural,Rejected
+LN1482,CUST5482,Male,No,0,Not Graduate,No,16901,12141,388925,12,1,Urban,Approved
+LN1483,CUST5483,Male,No,1,Not Graduate,No,20527,302,366515,12,1,Urban,Rejected
+LN1484,CUST5484,Female,No,3+,Graduate,Yes,3339,3673,177034,12,0,Urban,Approved
+LN1485,CUST5485,Male,Yes,0,Not Graduate,No,21832,14316,290408,360,1,Rural,Approved
+LN1486,CUST5486,Male,No,1,Graduate,Yes,24905,11428,210787,36,1,Semiurban,Approved
+LN1487,CUST5487,Female,No,3+,Graduate,No,12743,266,209189,240,1,Urban,Approved
+LN1488,CUST5488,Male,Yes,3+,Not Graduate,Yes,23472,10319,260187,36,0,Semiurban,Approved
+LN1489,CUST5489,Male,Yes,0,Not Graduate,No,5819,2710,259748,36,1,Semiurban,Rejected
+LN1490,CUST5490,Female,No,0,Not Graduate,Yes,10057,11214,498096,12,1,Rural,Approved
+LN1491,CUST5491,Female,Yes,2,Graduate,Yes,10015,12895,296708,120,1,Urban,Approved
+LN1492,CUST5492,Male,No,2,Graduate,Yes,14369,547,407869,12,0,Urban,Approved
+LN1493,CUST5493,Male,Yes,3+,Graduate,No,5050,12622,352092,360,1,Semiurban,Approved
+LN1494,CUST5494,Female,Yes,0,Graduate,Yes,15554,409,442669,180,1,Urban,Approved
+LN1495,CUST5495,Male,Yes,0,Graduate,No,24753,1030,219035,180,1,Rural,Approved
+LN1496,CUST5496,Female,Yes,3+,Not Graduate,Yes,16286,5844,135929,36,1,Rural,Approved
+LN1497,CUST5497,Female,Yes,1,Graduate,No,3332,1958,410808,36,1,Semiurban,Approved
+LN1498,CUST5498,Female,No,1,Graduate,Yes,21911,5533,190924,240,0,Urban,Approved
+LN1499,CUST5499,Male,Yes,2,Not Graduate,Yes,13987,12103,298397,12,1,Semiurban,Approved
+LN1500,CUST5500,Female,Yes,0,Graduate,No,5424,4242,157440,360,0,Rural,Rejected
+LN1501,CUST5501,Male,Yes,3+,Graduate,No,8231,12268,376593,120,1,Urban,Approved
+LN1502,CUST5502,Female,Yes,1,Not Graduate,Yes,14340,5754,334817,360,1,Rural,Rejected
+LN1503,CUST5503,Male,No,3+,Graduate,Yes,14657,13997,219937,180,1,Rural,Rejected
+LN1504,CUST5504,Female,No,2,Not Graduate,No,5336,81,61362,360,0,Semiurban,Rejected
+LN1505,CUST5505,Male,No,3+,Not Graduate,No,14081,11400,480276,180,1,Semiurban,Approved
+LN1506,CUST5506,Male,Yes,3+,Not Graduate,No,4181,11290,368731,36,1,Rural,Approved
+LN1507,CUST5507,Female,No,1,Not Graduate,No,11360,10769,375876,360,1,Rural,Rejected
+LN1508,CUST5508,Male,No,0,Not Graduate,Yes,16297,1715,230397,360,1,Urban,Approved
+LN1509,CUST5509,Female,Yes,2,Not Graduate,Yes,17236,14153,400703,120,1,Rural,Rejected
+LN1510,CUST5510,Female,Yes,3+,Graduate,Yes,8993,3823,188105,120,0,Rural,Approved
+LN1511,CUST5511,Female,Yes,2,Graduate,Yes,10302,9998,124317,60,1,Urban,Approved
+LN1512,CUST5512,Male,No,3+,Not Graduate,No,6739,14290,381506,12,1,Semiurban,Approved
+LN1513,CUST5513,Male,No,2,Not Graduate,No,2705,3004,108540,60,1,Semiurban,Approved
+LN1514,CUST5514,Male,No,2,Graduate,No,21119,6118,480536,60,1,Urban,Approved
+LN1515,CUST5515,Female,No,1,Not Graduate,Yes,9976,2597,206975,360,1,Semiurban,Approved
+LN1516,CUST5516,Male,No,0,Graduate,No,22907,10090,76295,360,1,Rural,Approved
+LN1517,CUST5517,Male,Yes,3+,Not Graduate,No,19057,6725,340913,60,1,Semiurban,Approved
+LN1518,CUST5518,Female,Yes,2,Graduate,No,9566,5827,275281,240,1,Semiurban,Rejected
+LN1519,CUST5519,Female,Yes,0,Graduate,No,7198,5483,215873,60,1,Urban,Approved
+LN1520,CUST5520,Female,Yes,0,Graduate,No,10437,10768,485541,120,1,Rural,Approved
+LN1521,CUST5521,Female,Yes,0,Graduate,Yes,12642,7078,496951,360,1,Urban,Rejected
+LN1522,CUST5522,Female,Yes,2,Graduate,No,18918,13360,67308,240,0,Rural,Approved
+LN1523,CUST5523,Male,No,0,Not Graduate,Yes,8872,1738,396952,120,0,Rural,Rejected
+LN1524,CUST5524,Male,No,0,Not Graduate,No,10717,8388,423138,180,1,Urban,Approved
+LN1525,CUST5525,Female,Yes,0,Graduate,Yes,2081,12400,222373,120,1,Rural,Approved
+LN1526,CUST5526,Female,Yes,1,Not Graduate,No,6573,4650,182458,60,1,Urban,Rejected
+LN1527,CUST5527,Male,Yes,3+,Graduate,No,15581,3556,393339,240,1,Rural,Approved
+LN1528,CUST5528,Female,Yes,1,Graduate,No,15050,10647,199255,240,0,Rural,Approved
+LN1529,CUST5529,Female,Yes,1,Graduate,Yes,9342,5839,83664,120,1,Rural,Rejected
+LN1530,CUST5530,Female,Yes,0,Graduate,No,3827,10159,213417,12,1,Rural,Approved
+LN1531,CUST5531,Female,Yes,1,Not Graduate,No,17966,12876,496600,240,0,Urban,Rejected
+LN1532,CUST5532,Male,Yes,0,Not Graduate,No,3940,10876,315544,180,1,Rural,Approved
+LN1533,CUST5533,Female,Yes,1,Graduate,No,6403,9907,116540,180,1,Rural,Rejected
+LN1534,CUST5534,Male,Yes,2,Graduate,No,5095,4594,214086,120,1,Rural,Approved
+LN1535,CUST5535,Male,No,0,Not Graduate,No,11299,2598,290865,360,0,Semiurban,Approved
+LN1536,CUST5536,Female,No,2,Graduate,Yes,2531,12650,103458,12,1,Semiurban,Approved
+LN1537,CUST5537,Female,No,1,Not Graduate,No,10924,366,145207,120,1,Rural,Approved
+LN1538,CUST5538,Female,No,1,Not Graduate,Yes,13942,13988,471671,36,1,Urban,Approved
+LN1539,CUST5539,Female,Yes,0,Graduate,No,6590,11159,125146,180,1,Urban,Approved
+LN1540,CUST5540,Female,No,0,Graduate,No,14096,3693,198919,60,1,Semiurban,Rejected
+LN1541,CUST5541,Male,Yes,3+,Graduate,Yes,19746,14057,478669,240,1,Semiurban,Approved
+LN1542,CUST5542,Female,Yes,3+,Graduate,No,19128,360,315679,180,1,Semiurban,Rejected
+LN1543,CUST5543,Male,Yes,3+,Graduate,Yes,8060,13829,116962,240,1,Urban,Approved
+LN1544,CUST5544,Female,No,3+,Graduate,Yes,3167,6404,108358,180,1,Semiurban,Rejected
+LN1545,CUST5545,Female,No,1,Not Graduate,No,17253,8190,460065,120,0,Urban,Approved
+LN1546,CUST5546,Female,No,1,Graduate,No,12782,9832,139374,240,1,Rural,Approved
+LN1547,CUST5547,Female,Yes,2,Graduate,Yes,20874,10546,301327,240,1,Urban,Approved
+LN1548,CUST5548,Female,Yes,0,Graduate,No,20388,8401,91297,180,1,Urban,Rejected
+LN1549,CUST5549,Male,No,3+,Not Graduate,No,12286,6579,454807,36,1,Semiurban,Approved
+LN1550,CUST5550,Female,Yes,0,Graduate,No,13733,7348,454746,12,1,Semiurban,Approved
+LN1551,CUST5551,Female,Yes,1,Graduate,Yes,12237,6628,333028,240,1,Semiurban,Approved
+LN1552,CUST5552,Male,No,2,Not Graduate,Yes,14786,2290,333468,120,1,Semiurban,Rejected
+LN1553,CUST5553,Male,Yes,2,Graduate,Yes,10364,8293,267615,240,1,Semiurban,Approved
+LN1554,CUST5554,Female,No,1,Not Graduate,No,17945,6236,121947,36,1,Rural,Approved
+LN1555,CUST5555,Male,Yes,2,Not Graduate,No,6674,7336,229820,180,1,Semiurban,Rejected
+LN1556,CUST5556,Female,No,0,Graduate,Yes,21819,9011,468035,240,1,Rural,Approved
+LN1557,CUST5557,Male,No,3+,Not Graduate,Yes,4571,1208,123199,360,1,Rural,Rejected
+LN1558,CUST5558,Male,Yes,0,Graduate,Yes,23842,10336,303532,60,1,Rural,Approved
+LN1559,CUST5559,Female,Yes,3+,Graduate,No,6606,11901,128569,360,1,Urban,Approved
+LN1560,CUST5560,Female,No,3+,Graduate,No,2314,8503,115685,60,1,Rural,Rejected
+LN1561,CUST5561,Female,Yes,3+,Not Graduate,No,13841,674,55078,360,0,Rural,Approved
+LN1562,CUST5562,Male,Yes,3+,Graduate,Yes,2214,13658,483641,12,0,Urban,Approved
+LN1563,CUST5563,Female,Yes,1,Graduate,Yes,19548,737,249726,12,1,Urban,Approved
+LN1564,CUST5564,Male,Yes,2,Graduate,Yes,7275,7700,68697,12,1,Semiurban,Rejected
+LN1565,CUST5565,Female,Yes,3+,Not Graduate,Yes,4344,14365,312471,60,1,Rural,Approved
+LN1566,CUST5566,Female,Yes,1,Graduate,Yes,8402,9758,335846,360,0,Urban,Approved
+LN1567,CUST5567,Female,No,3+,Graduate,Yes,15365,5077,268296,180,1,Semiurban,Rejected
+LN1568,CUST5568,Male,No,2,Graduate,No,9909,6300,144724,240,1,Urban,Approved
+LN1569,CUST5569,Female,No,0,Graduate,Yes,10023,896,150676,180,1,Semiurban,Rejected
+LN1570,CUST5570,Female,No,2,Graduate,No,6051,14565,334203,60,0,Semiurban,Approved
+LN1571,CUST5571,Male,Yes,1,Graduate,Yes,19023,7326,71039,180,1,Semiurban,Approved
+LN1572,CUST5572,Female,No,3+,Not Graduate,No,11008,14608,219482,240,1,Semiurban,Approved
+LN1573,CUST5573,Male,No,0,Graduate,No,5350,1390,83228,36,1,Semiurban,Approved
+LN1574,CUST5574,Female,Yes,0,Graduate,No,3053,5025,57632,12,1,Semiurban,Rejected
+LN1575,CUST5575,Female,Yes,0,Graduate,Yes,2548,3629,220759,12,0,Urban,Rejected
+LN1576,CUST5576,Male,Yes,0,Not Graduate,No,15367,4572,59488,240,1,Semiurban,Rejected
+LN1577,CUST5577,Male,No,3+,Not Graduate,Yes,9777,439,109133,180,1,Rural,Approved
+LN1578,CUST5578,Male,No,3+,Not Graduate,Yes,13386,2801,483705,180,1,Rural,Approved
+LN1579,CUST5579,Female,No,1,Graduate,No,7087,4056,229462,36,1,Semiurban,Approved
+LN1580,CUST5580,Male,Yes,3+,Not Graduate,Yes,16528,5270,65695,180,1,Urban,Rejected
+LN1581,CUST5581,Male,No,3+,Not Graduate,Yes,16996,13983,411912,36,0,Urban,Rejected
+LN1582,CUST5582,Male,No,3+,Not Graduate,No,20146,5567,64980,240,1,Urban,Approved
+LN1583,CUST5583,Female,No,2,Graduate,Yes,5619,1698,375305,360,0,Rural,Approved
+LN1584,CUST5584,Female,Yes,1,Graduate,Yes,23426,9145,365163,180,1,Semiurban,Approved
+LN1585,CUST5585,Male,Yes,3+,Graduate,No,3726,4658,105495,36,1,Semiurban,Approved
+LN1586,CUST5586,Male,No,0,Not Graduate,No,8544,4545,332525,120,1,Urban,Approved
+LN1587,CUST5587,Male,Yes,3+,Not Graduate,Yes,4686,1701,457001,360,1,Rural,Approved
+LN1588,CUST5588,Male,No,1,Not Graduate,Yes,11897,1601,238182,60,1,Semiurban,Rejected
+LN1589,CUST5589,Male,Yes,1,Not Graduate,No,9802,42,113909,120,1,Urban,Approved
+LN1590,CUST5590,Female,No,1,Graduate,No,17593,5247,250831,36,1,Semiurban,Rejected
+LN1591,CUST5591,Female,Yes,3+,Not Graduate,Yes,15797,2922,479943,240,0,Urban,Approved
+LN1592,CUST5592,Male,No,1,Graduate,No,9128,319,305913,120,1,Urban,Approved
+LN1593,CUST5593,Male,No,1,Graduate,No,7216,4762,315306,360,1,Urban,Approved
+LN1594,CUST5594,Male,No,2,Not Graduate,Yes,15402,4246,204363,120,1,Rural,Approved
+LN1595,CUST5595,Female,Yes,2,Not Graduate,Yes,12589,3941,98641,360,1,Semiurban,Approved
+LN1596,CUST5596,Male,Yes,3+,Graduate,Yes,23244,6736,489376,120,0,Rural,Approved
+LN1597,CUST5597,Male,Yes,3+,Not Graduate,Yes,21306,7875,130290,12,1,Rural,Rejected
+LN1598,CUST5598,Male,Yes,1,Not Graduate,No,10699,7400,374551,180,1,Semiurban,Approved
+LN1599,CUST5599,Female,Yes,3+,Not Graduate,Yes,22747,2022,382484,60,1,Urban,Rejected
+LN1600,CUST5600,Female,No,2,Graduate,Yes,17397,10176,197796,36,1,Rural,Approved
+LN1601,CUST5601,Female,Yes,3+,Not Graduate,No,23672,7850,97046,36,1,Rural,Rejected
+LN1602,CUST5602,Female,No,0,Not Graduate,No,2863,4519,237951,36,1,Semiurban,Approved
+LN1603,CUST5603,Female,Yes,1,Not Graduate,Yes,11487,4301,162875,12,1,Semiurban,Rejected
+LN1604,CUST5604,Male,No,3+,Graduate,No,12403,12321,215971,60,1,Semiurban,Approved
+LN1605,CUST5605,Male,Yes,2,Graduate,Yes,4945,7852,256074,360,1,Rural,Approved
+LN1606,CUST5606,Female,No,2,Graduate,Yes,15418,7417,430264,36,1,Semiurban,Approved
+LN1607,CUST5607,Female,Yes,1,Graduate,Yes,16560,4642,270979,360,1,Urban,Rejected
+LN1608,CUST5608,Female,Yes,3+,Not Graduate,No,23768,4599,55671,12,1,Semiurban,Rejected
+LN1609,CUST5609,Male,Yes,3+,Not Graduate,Yes,24992,14521,427722,36,1,Urban,Approved
+LN1610,CUST5610,Female,Yes,1,Graduate,Yes,22076,1405,152128,360,1,Rural,Rejected
+LN1611,CUST5611,Male,Yes,0,Not Graduate,No,23240,13886,264878,60,1,Rural,Rejected
+LN1612,CUST5612,Female,Yes,3+,Graduate,Yes,12286,8696,277453,120,0,Semiurban,Approved
+LN1613,CUST5613,Male,Yes,3+,Graduate,No,10839,8229,209044,60,1,Urban,Approved
+LN1614,CUST5614,Female,No,3+,Not Graduate,No,23542,6377,253023,36,1,Urban,Approved
+LN1615,CUST5615,Male,No,2,Not Graduate,No,12563,10969,396471,360,1,Rural,Approved
+LN1616,CUST5616,Male,No,1,Not Graduate,No,24049,989,56901,12,1,Semiurban,Rejected
+LN1617,CUST5617,Male,Yes,1,Graduate,No,24776,6896,84980,36,1,Urban,Rejected
+LN1618,CUST5618,Male,No,1,Not Graduate,No,10067,12873,144672,240,1,Rural,Rejected
+LN1619,CUST5619,Female,Yes,0,Not Graduate,No,11752,7880,210218,360,1,Urban,Approved
+LN1620,CUST5620,Female,Yes,2,Graduate,Yes,18275,3181,438758,60,1,Semiurban,Rejected
+LN1621,CUST5621,Female,Yes,0,Not Graduate,Yes,7898,1524,471537,360,1,Semiurban,Approved
+LN1622,CUST5622,Male,Yes,3+,Not Graduate,Yes,20830,3382,172823,240,0,Semiurban,Rejected
+LN1623,CUST5623,Female,No,2,Not Graduate,No,11847,8708,327896,180,1,Semiurban,Approved
+LN1624,CUST5624,Male,Yes,3+,Graduate,Yes,22871,10831,140973,120,0,Semiurban,Rejected
+LN1625,CUST5625,Male,No,2,Not Graduate,Yes,13289,6813,318905,36,1,Rural,Approved
+LN1626,CUST5626,Male,No,3+,Not Graduate,No,24992,5192,134185,180,1,Rural,Approved
+LN1627,CUST5627,Male,No,2,Not Graduate,Yes,23670,2048,138277,360,0,Rural,Approved
+LN1628,CUST5628,Male,No,2,Not Graduate,Yes,24211,6236,432408,12,1,Rural,Rejected
+LN1629,CUST5629,Female,Yes,1,Graduate,No,23801,7438,181539,360,1,Semiurban,Approved
+LN1630,CUST5630,Male,Yes,1,Not Graduate,No,22085,14403,255693,60,1,Urban,Approved
+LN1631,CUST5631,Male,No,3+,Not Graduate,Yes,14296,7015,61013,12,1,Semiurban,Rejected
+LN1632,CUST5632,Female,Yes,0,Graduate,Yes,13232,13590,51657,36,0,Urban,Rejected
+LN1633,CUST5633,Male,Yes,0,Not Graduate,Yes,4701,9654,109939,60,1,Urban,Approved
+LN1634,CUST5634,Male,Yes,1,Graduate,No,11376,3468,327159,240,0,Urban,Approved
+LN1635,CUST5635,Male,Yes,0,Graduate,No,9648,1095,497219,360,1,Semiurban,Approved
+LN1636,CUST5636,Female,No,2,Graduate,No,21085,1395,102475,180,1,Urban,Approved
+LN1637,CUST5637,Female,Yes,2,Not Graduate,Yes,13157,9113,158654,36,1,Urban,Approved
+LN1638,CUST5638,Female,Yes,3+,Not Graduate,Yes,16599,258,348248,180,1,Rural,Rejected
+LN1639,CUST5639,Female,No,0,Graduate,Yes,8748,2534,452647,360,1,Urban,Rejected
+LN1640,CUST5640,Male,No,0,Graduate,Yes,17236,5214,260437,36,1,Rural,Approved
+LN1641,CUST5641,Female,Yes,0,Not Graduate,No,14052,14153,235642,360,1,Rural,Approved
+LN1642,CUST5642,Female,No,1,Not Graduate,Yes,21674,9365,257330,360,0,Urban,Approved
+LN1643,CUST5643,Female,Yes,0,Graduate,No,20422,10193,144481,120,1,Semiurban,Approved
+LN1644,CUST5644,Male,Yes,1,Not Graduate,Yes,6854,768,102623,36,1,Rural,Approved
+LN1645,CUST5645,Female,Yes,3+,Graduate,Yes,11620,10530,485391,360,1,Semiurban,Approved
+LN1646,CUST5646,Female,Yes,3+,Not Graduate,Yes,2437,12544,180695,12,0,Semiurban,Rejected
+LN1647,CUST5647,Female,Yes,2,Not Graduate,No,10839,7443,271098,360,0,Semiurban,Approved
+LN1648,CUST5648,Male,Yes,1,Graduate,Yes,24495,13210,423841,120,1,Semiurban,Approved
+LN1649,CUST5649,Female,No,2,Graduate,Yes,2387,8724,274164,60,1,Rural,Rejected
+LN1650,CUST5650,Male,No,1,Graduate,No,10595,4479,66565,360,1,Urban,Approved
+LN1651,CUST5651,Male,No,3+,Graduate,Yes,23384,7195,154583,360,1,Semiurban,Rejected
+LN1652,CUST5652,Female,No,1,Not Graduate,No,4412,10164,330038,12,1,Urban,Rejected
+LN1653,CUST5653,Male,Yes,2,Graduate,Yes,19398,13262,281828,36,1,Urban,Approved
+LN1654,CUST5654,Male,No,1,Not Graduate,Yes,20773,13577,286055,60,0,Rural,Rejected
+LN1655,CUST5655,Female,Yes,1,Not Graduate,No,18966,6338,465126,240,0,Semiurban,Approved
+LN1656,CUST5656,Female,Yes,3+,Graduate,Yes,4696,14528,375920,120,1,Rural,Approved
+LN1657,CUST5657,Female,No,2,Not Graduate,No,15214,7864,93544,360,1,Urban,Rejected
+LN1658,CUST5658,Female,Yes,0,Graduate,No,3320,7582,341639,12,0,Rural,Rejected
+LN1659,CUST5659,Female,No,2,Graduate,Yes,7414,5995,294699,36,1,Urban,Rejected
+LN1660,CUST5660,Male,No,3+,Not Graduate,No,9807,3411,458187,12,0,Semiurban,Approved
+LN1661,CUST5661,Female,Yes,1,Not Graduate,Yes,13504,7638,227670,12,1,Urban,Rejected
+LN1662,CUST5662,Female,Yes,2,Graduate,Yes,17675,9041,227684,36,0,Semiurban,Approved
+LN1663,CUST5663,Male,Yes,3+,Graduate,Yes,18616,3010,496885,12,0,Semiurban,Approved
+LN1664,CUST5664,Female,No,2,Graduate,Yes,24014,7795,92557,36,1,Urban,Approved
+LN1665,CUST5665,Male,Yes,0,Not Graduate,No,5702,8481,232380,36,1,Rural,Rejected
+LN1666,CUST5666,Male,Yes,0,Graduate,No,19468,269,96788,120,1,Rural,Approved
+LN1667,CUST5667,Male,Yes,2,Not Graduate,No,19625,5786,414103,180,1,Urban,Approved
+LN1668,CUST5668,Female,No,2,Not Graduate,No,9355,10950,472292,60,1,Urban,Rejected
+LN1669,CUST5669,Male,Yes,2,Not Graduate,No,22298,4893,396277,360,0,Urban,Rejected
+LN1670,CUST5670,Male,No,2,Not Graduate,No,4706,3685,351668,240,1,Urban,Approved
+LN1671,CUST5671,Male,No,2,Graduate,No,7140,4335,463918,240,1,Rural,Approved
+LN1672,CUST5672,Female,Yes,3+,Not Graduate,No,21107,4058,331817,36,1,Urban,Approved
+LN1673,CUST5673,Female,Yes,0,Graduate,Yes,13645,6917,206646,12,1,Urban,Rejected
+LN1674,CUST5674,Male,Yes,3+,Not Graduate,No,14944,9526,120205,120,1,Rural,Approved
+LN1675,CUST5675,Male,Yes,2,Graduate,Yes,8285,10720,423206,60,1,Semiurban,Rejected
+LN1676,CUST5676,Male,No,1,Not Graduate,Yes,19503,5330,425699,360,1,Rural,Approved
+LN1677,CUST5677,Female,Yes,2,Graduate,No,16898,14524,430073,180,1,Semiurban,Approved
+LN1678,CUST5678,Female,Yes,0,Graduate,No,21075,7639,235793,360,1,Urban,Rejected
+LN1679,CUST5679,Male,Yes,3+,Not Graduate,No,11958,10510,303435,36,1,Semiurban,Approved
+LN1680,CUST5680,Female,No,2,Not Graduate,Yes,6380,9396,381024,60,1,Rural,Rejected
+LN1681,CUST5681,Female,No,3+,Not Graduate,No,13507,8491,200029,240,0,Urban,Approved
+LN1682,CUST5682,Male,No,3+,Graduate,Yes,24466,10708,393740,36,1,Rural,Rejected
+LN1683,CUST5683,Male,No,3+,Not Graduate,No,4085,7811,414509,360,1,Urban,Approved
+LN1684,CUST5684,Female,No,0,Not Graduate,No,2439,13250,145279,60,1,Urban,Rejected
+LN1685,CUST5685,Female,Yes,2,Not Graduate,Yes,19649,794,177895,120,0,Semiurban,Rejected
+LN1686,CUST5686,Female,No,0,Not Graduate,No,2048,7896,443332,180,1,Urban,Rejected
+LN1687,CUST5687,Female,Yes,0,Graduate,Yes,23809,8953,368890,60,0,Urban,Approved
+LN1688,CUST5688,Male,Yes,0,Not Graduate,No,8268,9928,255617,240,1,Semiurban,Approved
+LN1689,CUST5689,Male,Yes,0,Not Graduate,No,8378,7503,281838,360,1,Rural,Rejected
+LN1690,CUST5690,Male,No,3+,Not Graduate,No,9228,5375,140648,60,0,Urban,Approved
+LN1691,CUST5691,Male,No,2,Not Graduate,Yes,10483,13024,296471,60,1,Semiurban,Rejected
+LN1692,CUST5692,Female,Yes,0,Not Graduate,Yes,18958,6410,183519,60,1,Semiurban,Approved
+LN1693,CUST5693,Female,No,3+,Not Graduate,Yes,16295,13005,89099,12,1,Rural,Approved
+LN1694,CUST5694,Female,Yes,0,Not Graduate,No,11431,9772,357837,360,1,Semiurban,Approved
+LN1695,CUST5695,Male,Yes,3+,Graduate,No,3411,5709,355554,180,1,Rural,Approved
+LN1696,CUST5696,Male,Yes,3+,Graduate,Yes,4923,280,246843,240,1,Rural,Approved
+LN1697,CUST5697,Female,Yes,3+,Not Graduate,Yes,13258,1860,148409,180,0,Semiurban,Approved
+LN1698,CUST5698,Female,Yes,3+,Graduate,No,20551,12678,270797,36,1,Semiurban,Approved
+LN1699,CUST5699,Male,Yes,2,Not Graduate,No,2176,6205,245668,60,1,Urban,Approved
+LN1700,CUST5700,Female,Yes,0,Graduate,No,8180,13521,123165,12,1,Semiurban,Approved
+LN1701,CUST5701,Male,Yes,2,Graduate,Yes,17366,6986,368343,60,1,Rural,Approved
+LN1702,CUST5702,Male,No,1,Graduate,No,13901,11542,462957,60,0,Rural,Rejected
+LN1703,CUST5703,Female,No,2,Not Graduate,No,13520,6323,101256,60,1,Rural,Approved
+LN1704,CUST5704,Male,Yes,3+,Not Graduate,No,13044,6652,486903,12,1,Urban,Approved
+LN1705,CUST5705,Male,Yes,1,Not Graduate,Yes,22108,13945,271980,240,1,Semiurban,Approved
+LN1706,CUST5706,Male,No,2,Not Graduate,Yes,2077,11849,328721,240,1,Rural,Approved
+LN1707,CUST5707,Female,No,2,Not Graduate,Yes,9322,5650,330972,12,1,Semiurban,Approved
+LN1708,CUST5708,Male,Yes,2,Graduate,No,9125,1768,120403,12,1,Semiurban,Approved
+LN1709,CUST5709,Female,No,3+,Graduate,Yes,12983,3486,69839,360,0,Rural,Rejected
+LN1710,CUST5710,Female,No,3+,Not Graduate,Yes,8719,7412,358933,60,1,Semiurban,Rejected
+LN1711,CUST5711,Female,No,0,Graduate,No,17754,14261,395634,36,1,Semiurban,Rejected
+LN1712,CUST5712,Male,No,2,Not Graduate,No,20990,4780,151084,12,1,Urban,Approved
+LN1713,CUST5713,Female,No,2,Graduate,No,9700,10752,231324,180,0,Semiurban,Approved
+LN1714,CUST5714,Male,Yes,0,Graduate,Yes,4569,5058,349107,60,1,Semiurban,Rejected
+LN1715,CUST5715,Male,No,1,Not Graduate,Yes,23320,1770,170585,60,1,Urban,Rejected
+LN1716,CUST5716,Female,No,3+,Graduate,No,11073,11397,452582,180,1,Semiurban,Approved
+LN1717,CUST5717,Female,Yes,0,Not Graduate,Yes,17595,2939,193966,36,1,Rural,Approved
+LN1718,CUST5718,Female,No,1,Graduate,Yes,15179,14190,460917,120,1,Semiurban,Rejected
+LN1719,CUST5719,Female,No,2,Graduate,No,5598,366,265093,360,1,Rural,Rejected
+LN1720,CUST5720,Female,No,2,Graduate,Yes,20992,5848,250912,12,0,Urban,Rejected
+LN1721,CUST5721,Male,No,2,Graduate,No,11526,12592,155240,240,1,Rural,Rejected
+LN1722,CUST5722,Female,No,1,Not Graduate,Yes,16571,4225,401418,12,1,Urban,Approved
+LN1723,CUST5723,Male,Yes,3+,Not Graduate,Yes,6229,9591,394583,360,1,Semiurban,Rejected
+LN1724,CUST5724,Male,Yes,1,Graduate,No,7663,10553,79608,180,1,Rural,Approved
+LN1725,CUST5725,Female,Yes,1,Graduate,No,15747,3522,384626,180,1,Rural,Approved
+LN1726,CUST5726,Male,Yes,0,Graduate,No,6153,10086,359984,12,1,Semiurban,Approved
+LN1727,CUST5727,Female,No,1,Not Graduate,No,2035,9277,257183,60,1,Rural,Approved
+LN1728,CUST5728,Male,No,2,Graduate,No,16670,2018,64275,360,1,Semiurban,Rejected
+LN1729,CUST5729,Male,No,2,Not Graduate,Yes,12293,6380,166418,240,1,Rural,Approved
+LN1730,CUST5730,Male,No,1,Not Graduate,Yes,5554,13783,70524,360,1,Rural,Approved
+LN1731,CUST5731,Male,Yes,3+,Graduate,No,12845,4306,207379,180,1,Semiurban,Approved
+LN1732,CUST5732,Male,Yes,2,Graduate,Yes,19271,13806,395476,180,1,Urban,Approved
+LN1733,CUST5733,Male,No,1,Graduate,Yes,19879,12208,92103,240,1,Urban,Approved
+LN1734,CUST5734,Male,No,1,Graduate,No,6434,2431,349283,12,1,Semiurban,Approved
+LN1735,CUST5735,Female,No,1,Not Graduate,No,15116,13420,408079,36,1,Semiurban,Rejected
+LN1736,CUST5736,Male,Yes,1,Not Graduate,No,23992,14910,117657,12,1,Rural,Approved
+LN1737,CUST5737,Male,Yes,2,Graduate,No,9115,10536,303229,12,1,Semiurban,Approved
+LN1738,CUST5738,Female,Yes,1,Not Graduate,No,16883,9898,134767,12,1,Rural,Approved
+LN1739,CUST5739,Female,No,1,Graduate,Yes,18794,10456,230390,360,0,Urban,Approved
+LN1740,CUST5740,Male,Yes,1,Graduate,Yes,6320,4180,463293,12,1,Urban,Rejected
+LN1741,CUST5741,Female,No,0,Not Graduate,No,24068,4474,338263,240,1,Rural,Approved
+LN1742,CUST5742,Female,No,1,Graduate,Yes,19685,10153,314107,180,1,Rural,Approved
+LN1743,CUST5743,Male,No,1,Graduate,Yes,21207,3567,208008,36,1,Semiurban,Approved
+LN1744,CUST5744,Male,Yes,1,Not Graduate,Yes,22830,5768,467908,36,1,Rural,Approved
+LN1745,CUST5745,Male,No,3+,Graduate,Yes,4046,10296,64686,60,1,Urban,Rejected
+LN1746,CUST5746,Female,Yes,1,Graduate,No,19084,12441,265873,240,1,Semiurban,Rejected
+LN1747,CUST5747,Female,Yes,3+,Not Graduate,Yes,2257,10259,84397,240,1,Semiurban,Rejected
+LN1748,CUST5748,Male,No,2,Not Graduate,Yes,5190,14083,79735,120,1,Rural,Approved
+LN1749,CUST5749,Female,No,3+,Not Graduate,No,13879,2917,398459,60,0,Urban,Approved
+LN1750,CUST5750,Male,No,0,Not Graduate,Yes,4269,8109,50607,120,1,Semiurban,Rejected
+LN1751,CUST5751,Male,Yes,0,Not Graduate,Yes,17712,4905,194540,60,1,Semiurban,Approved
+LN1752,CUST5752,Male,Yes,2,Graduate,No,14584,8776,419217,240,0,Urban,Rejected
+LN1753,CUST5753,Male,Yes,2,Not Graduate,Yes,7026,14206,387470,60,0,Urban,Approved
+LN1754,CUST5754,Female,Yes,2,Graduate,No,8838,7516,421556,360,0,Semiurban,Rejected
+LN1755,CUST5755,Female,Yes,0,Not Graduate,No,2042,3046,233928,60,0,Semiurban,Approved
+LN1756,CUST5756,Male,Yes,1,Graduate,Yes,16906,12025,367606,36,0,Urban,Approved
+LN1757,CUST5757,Female,Yes,2,Graduate,No,15352,339,420469,240,1,Urban,Approved
+LN1758,CUST5758,Male,No,1,Not Graduate,No,14130,8881,355896,360,1,Rural,Approved
+LN1759,CUST5759,Male,Yes,1,Graduate,Yes,4063,5709,384752,60,1,Semiurban,Approved
+LN1760,CUST5760,Female,No,0,Graduate,Yes,17981,14787,314565,12,1,Urban,Approved
+LN1761,CUST5761,Male,Yes,0,Graduate,No,22078,6604,455776,180,1,Semiurban,Approved
+LN1762,CUST5762,Female,Yes,1,Not Graduate,Yes,20514,1984,145140,12,0,Semiurban,Approved
+LN1763,CUST5763,Male,Yes,2,Graduate,Yes,12812,11915,161529,60,1,Rural,Approved
+LN1764,CUST5764,Female,Yes,0,Not Graduate,Yes,15913,4486,172589,12,1,Urban,Rejected
+LN1765,CUST5765,Male,No,0,Graduate,No,19056,8734,310434,240,0,Urban,Approved
+LN1766,CUST5766,Female,No,3+,Graduate,Yes,6194,921,228582,240,1,Semiurban,Rejected
+LN1767,CUST5767,Female,No,0,Graduate,Yes,10924,4726,427542,60,1,Urban,Approved
+LN1768,CUST5768,Female,No,1,Graduate,Yes,6764,61,415648,60,1,Semiurban,Rejected
+LN1769,CUST5769,Female,No,0,Graduate,No,20770,2165,455648,60,1,Urban,Approved
+LN1770,CUST5770,Female,No,2,Not Graduate,Yes,13911,6110,208084,12,0,Semiurban,Rejected
+LN1771,CUST5771,Female,No,3+,Not Graduate,No,4460,7399,227161,12,1,Rural,Rejected
+LN1772,CUST5772,Female,Yes,0,Graduate,No,24524,8234,136881,240,1,Semiurban,Rejected
+LN1773,CUST5773,Female,Yes,3+,Graduate,Yes,4337,12353,404829,12,0,Urban,Rejected
+LN1774,CUST5774,Female,No,3+,Graduate,Yes,10755,14177,129863,120,1,Semiurban,Approved
+LN1775,CUST5775,Male,No,2,Not Graduate,Yes,6389,9997,416722,180,1,Semiurban,Rejected
+LN1776,CUST5776,Female,No,1,Graduate,Yes,16438,8596,337355,360,0,Semiurban,Approved
+LN1777,CUST5777,Male,Yes,2,Graduate,Yes,6047,4409,339612,240,1,Urban,Approved
+LN1778,CUST5778,Female,Yes,0,Graduate,Yes,10517,9949,493617,180,1,Semiurban,Approved
+LN1779,CUST5779,Female,Yes,1,Not Graduate,Yes,17261,4635,169862,12,1,Urban,Approved
+LN1780,CUST5780,Female,No,1,Graduate,No,18014,12397,154790,240,1,Rural,Approved
+LN1781,CUST5781,Male,Yes,0,Graduate,No,14771,686,174527,36,1,Urban,Rejected
+LN1782,CUST5782,Female,No,0,Graduate,Yes,19900,4427,219587,12,1,Urban,Rejected
+LN1783,CUST5783,Male,No,1,Not Graduate,Yes,19397,6839,187192,12,0,Rural,Approved
+LN1784,CUST5784,Male,No,1,Graduate,Yes,17165,3350,92579,120,1,Semiurban,Approved
+LN1785,CUST5785,Male,No,2,Not Graduate,No,19505,5950,466707,36,0,Rural,Approved
+LN1786,CUST5786,Male,Yes,0,Not Graduate,No,22655,4036,108824,36,1,Urban,Rejected
+LN1787,CUST5787,Female,No,3+,Graduate,Yes,5194,2326,423256,12,1,Semiurban,Approved
+LN1788,CUST5788,Male,No,2,Graduate,Yes,5290,218,265231,120,1,Rural,Rejected
+LN1789,CUST5789,Female,No,0,Not Graduate,Yes,10831,9600,309921,180,1,Semiurban,Rejected
+LN1790,CUST5790,Male,No,2,Graduate,Yes,10011,11557,315393,12,1,Urban,Approved
+LN1791,CUST5791,Female,No,2,Graduate,No,17411,12673,371000,12,1,Semiurban,Rejected
+LN1792,CUST5792,Female,Yes,1,Not Graduate,No,16153,2464,65005,180,1,Urban,Rejected
+LN1793,CUST5793,Male,No,3+,Not Graduate,No,15546,5991,466828,360,0,Urban,Approved
+LN1794,CUST5794,Male,No,1,Graduate,Yes,3719,4325,352828,36,1,Urban,Approved
+LN1795,CUST5795,Male,No,2,Graduate,Yes,22485,5115,207361,60,1,Rural,Rejected
+LN1796,CUST5796,Female,Yes,3+,Graduate,No,9714,13952,84501,12,1,Rural,Approved
+LN1797,CUST5797,Female,No,1,Graduate,Yes,14349,3583,488078,360,1,Rural,Approved
+LN1798,CUST5798,Female,No,2,Graduate,Yes,3095,8509,251439,180,1,Rural,Rejected
+LN1799,CUST5799,Female,Yes,0,Graduate,Yes,4039,7261,104190,120,1,Rural,Approved
+LN1800,CUST5800,Female,Yes,3+,Graduate,Yes,2587,5751,60627,36,1,Semiurban,Rejected
+LN1801,CUST5801,Female,No,3+,Not Graduate,Yes,4382,4722,497261,12,1,Semiurban,Rejected
+LN1802,CUST5802,Male,No,3+,Graduate,No,11168,6644,410051,12,1,Rural,Rejected
+LN1803,CUST5803,Female,Yes,1,Graduate,No,23017,10290,479580,120,0,Rural,Approved
+LN1804,CUST5804,Female,No,2,Not Graduate,Yes,20043,6117,396853,120,1,Rural,Approved
+LN1805,CUST5805,Female,Yes,3+,Graduate,No,15035,12587,238103,120,0,Semiurban,Approved
+LN1806,CUST5806,Male,No,0,Not Graduate,Yes,15565,7153,294791,180,1,Semiurban,Approved
+LN1807,CUST5807,Male,Yes,1,Graduate,No,17324,3021,126482,36,1,Rural,Approved
+LN1808,CUST5808,Male,Yes,1,Not Graduate,No,15171,5449,187150,360,0,Urban,Rejected
+LN1809,CUST5809,Male,No,3+,Not Graduate,No,12773,6288,333076,120,0,Urban,Approved
+LN1810,CUST5810,Male,No,2,Graduate,Yes,3447,14041,283150,36,1,Urban,Approved
+LN1811,CUST5811,Male,No,3+,Not Graduate,No,3969,5966,393244,36,1,Rural,Rejected
+LN1812,CUST5812,Male,No,1,Not Graduate,Yes,21118,10883,66060,60,1,Rural,Approved
+LN1813,CUST5813,Female,Yes,3+,Graduate,No,20395,5738,183348,36,1,Urban,Approved
+LN1814,CUST5814,Male,Yes,1,Graduate,Yes,5410,6050,485217,120,1,Rural,Approved
+LN1815,CUST5815,Male,No,0,Not Graduate,No,24573,14324,69790,360,1,Rural,Approved
+LN1816,CUST5816,Female,Yes,2,Not Graduate,Yes,16032,11739,163154,120,0,Semiurban,Approved
+LN1817,CUST5817,Female,Yes,3+,Graduate,No,16109,2348,336973,12,1,Semiurban,Rejected
+LN1818,CUST5818,Male,Yes,2,Graduate,No,6358,14108,207102,360,0,Rural,Rejected
+LN1819,CUST5819,Male,No,3+,Graduate,No,14402,8749,455759,36,1,Urban,Approved
+LN1820,CUST5820,Female,Yes,3+,Not Graduate,No,15859,7821,438725,12,1,Rural,Approved
+LN1821,CUST5821,Female,Yes,0,Not Graduate,Yes,3350,10099,405527,60,1,Rural,Approved
+LN1822,CUST5822,Female,No,1,Graduate,No,11818,14866,51946,120,1,Semiurban,Approved
+LN1823,CUST5823,Male,No,1,Not Graduate,No,10953,12127,90768,36,1,Urban,Rejected
+LN1824,CUST5824,Female,Yes,3+,Not Graduate,Yes,3916,4704,91721,120,1,Urban,Rejected
+LN1825,CUST5825,Female,Yes,3+,Not Graduate,No,24670,3619,409356,36,1,Rural,Rejected
+LN1826,CUST5826,Male,No,1,Graduate,No,13923,5219,280519,120,1,Semiurban,Approved
+LN1827,CUST5827,Female,Yes,1,Not Graduate,Yes,7040,2568,159011,360,1,Semiurban,Approved
+LN1828,CUST5828,Male,No,2,Not Graduate,No,4154,4074,455974,120,0,Semiurban,Approved
+LN1829,CUST5829,Male,No,2,Not Graduate,No,12952,7315,197321,60,1,Rural,Approved
+LN1830,CUST5830,Male,Yes,1,Not Graduate,Yes,20026,7947,99357,60,0,Semiurban,Approved
+LN1831,CUST5831,Male,No,0,Not Graduate,Yes,10394,1532,171226,180,0,Rural,Approved
+LN1832,CUST5832,Female,No,1,Not Graduate,Yes,16061,11731,52768,360,1,Urban,Approved
+LN1833,CUST5833,Male,Yes,3+,Graduate,Yes,4744,9103,326883,12,1,Rural,Approved
+LN1834,CUST5834,Male,No,3+,Graduate,No,21396,12037,136546,360,0,Semiurban,Approved
+LN1835,CUST5835,Male,No,0,Not Graduate,No,16876,14327,246846,360,1,Urban,Approved
+LN1836,CUST5836,Male,No,1,Not Graduate,No,2381,5354,68161,240,1,Rural,Rejected
+LN1837,CUST5837,Male,Yes,1,Graduate,Yes,2444,13685,97809,12,1,Semiurban,Approved
+LN1838,CUST5838,Female,Yes,3+,Graduate,No,7762,607,417674,36,1,Urban,Rejected
+LN1839,CUST5839,Male,No,2,Not Graduate,No,23543,5107,305108,120,1,Urban,Rejected
+LN1840,CUST5840,Male,No,1,Not Graduate,No,16633,9921,485859,180,1,Semiurban,Approved
+LN1841,CUST5841,Female,Yes,1,Graduate,No,24239,7198,389386,180,0,Rural,Approved
+LN1842,CUST5842,Male,Yes,2,Not Graduate,Yes,16972,11913,77250,36,1,Rural,Approved
+LN1843,CUST5843,Female,Yes,0,Graduate,Yes,16643,2262,161101,36,1,Semiurban,Approved
+LN1844,CUST5844,Male,No,3+,Graduate,No,11683,13145,292486,36,1,Urban,Rejected
+LN1845,CUST5845,Female,No,0,Not Graduate,No,19389,12489,97006,36,1,Rural,Approved
+LN1846,CUST5846,Male,Yes,1,Not Graduate,No,12525,95,219534,12,0,Semiurban,Approved
+LN1847,CUST5847,Male,Yes,1,Not Graduate,No,15661,4453,325106,360,1,Urban,Approved
+LN1848,CUST5848,Female,No,0,Not Graduate,Yes,22897,4510,340522,12,1,Urban,Approved
+LN1849,CUST5849,Male,No,3+,Graduate,Yes,2923,13209,398543,240,0,Rural,Approved
+LN1850,CUST5850,Female,No,2,Graduate,Yes,17417,6145,301619,12,1,Urban,Approved
+LN1851,CUST5851,Male,No,2,Graduate,No,23394,11006,320381,36,1,Urban,Rejected
+LN1852,CUST5852,Male,No,0,Graduate,Yes,24555,13889,137009,120,1,Urban,Rejected
+LN1853,CUST5853,Female,Yes,0,Graduate,Yes,7208,8083,254488,180,0,Semiurban,Approved
+LN1854,CUST5854,Male,Yes,0,Not Graduate,Yes,21259,11850,393161,240,1,Semiurban,Approved
+LN1855,CUST5855,Female,No,2,Not Graduate,Yes,7840,3561,167442,360,1,Urban,Rejected
+LN1856,CUST5856,Male,Yes,2,Graduate,No,15439,7233,414290,240,1,Semiurban,Approved
+LN1857,CUST5857,Male,No,3+,Graduate,No,9763,10443,86262,120,1,Semiurban,Rejected
+LN1858,CUST5858,Female,No,1,Graduate,No,10069,8439,294699,180,1,Rural,Approved
+LN1859,CUST5859,Female,Yes,0,Not Graduate,No,12377,8836,299272,180,1,Rural,Rejected
+LN1860,CUST5860,Female,Yes,0,Not Graduate,Yes,5541,14545,431300,360,1,Rural,Approved
+LN1861,CUST5861,Male,Yes,0,Graduate,Yes,23667,7418,199334,180,1,Semiurban,Rejected
+LN1862,CUST5862,Male,No,1,Graduate,No,7840,4396,99450,36,1,Semiurban,Approved
+LN1863,CUST5863,Male,Yes,3+,Graduate,No,10038,6156,119147,12,1,Semiurban,Approved
+LN1864,CUST5864,Male,Yes,2,Graduate,No,2520,9350,448771,180,1,Rural,Rejected
+LN1865,CUST5865,Female,Yes,2,Not Graduate,No,20879,6522,428283,360,1,Urban,Approved
+LN1866,CUST5866,Male,Yes,0,Graduate,No,16151,9908,469218,180,1,Rural,Approved
+LN1867,CUST5867,Male,No,2,Graduate,Yes,6911,10977,219932,12,1,Urban,Rejected
+LN1868,CUST5868,Female,No,3+,Graduate,No,18483,1479,201540,360,1,Rural,Approved
+LN1869,CUST5869,Male,No,1,Graduate,No,7872,6717,303763,180,1,Semiurban,Approved
+LN1870,CUST5870,Female,Yes,0,Not Graduate,No,24264,2498,469461,360,1,Semiurban,Approved
+LN1871,CUST5871,Female,No,1,Not Graduate,No,17815,2560,430786,180,1,Urban,Approved
+LN1872,CUST5872,Male,No,0,Not Graduate,Yes,5703,972,277102,36,0,Semiurban,Approved
+LN1873,CUST5873,Male,Yes,3+,Graduate,No,22952,10449,195412,180,1,Urban,Approved
+LN1874,CUST5874,Male,No,2,Graduate,No,24317,567,155092,240,1,Semiurban,Approved
+LN1875,CUST5875,Female,Yes,1,Graduate,No,9746,12364,390000,60,1,Rural,Approved
+LN1876,CUST5876,Male,No,2,Not Graduate,Yes,22523,675,95529,60,1,Urban,Approved
+LN1877,CUST5877,Male,Yes,0,Graduate,Yes,21172,12990,390310,120,1,Semiurban,Approved
+LN1878,CUST5878,Female,No,2,Not Graduate,Yes,15894,6781,125243,60,0,Rural,Rejected
+LN1879,CUST5879,Female,No,0,Graduate,No,3188,7767,190599,120,1,Semiurban,Approved
+LN1880,CUST5880,Female,No,0,Not Graduate,Yes,11531,7717,274792,120,1,Semiurban,Approved
+LN1881,CUST5881,Male,Yes,1,Not Graduate,No,23365,6823,225781,36,1,Rural,Approved
+LN1882,CUST5882,Male,No,0,Graduate,Yes,15715,11452,221768,240,1,Rural,Approved
+LN1883,CUST5883,Female,No,2,Not Graduate,No,2352,11468,362815,240,1,Urban,Rejected
+LN1884,CUST5884,Female,No,1,Not Graduate,Yes,4590,13752,184240,360,1,Semiurban,Approved
+LN1885,CUST5885,Male,No,2,Graduate,Yes,12257,7306,291968,36,1,Rural,Rejected
+LN1886,CUST5886,Female,Yes,2,Not Graduate,Yes,19328,11538,223492,360,0,Urban,Rejected
+LN1887,CUST5887,Female,Yes,2,Not Graduate,No,5849,1563,331038,240,1,Urban,Approved
+LN1888,CUST5888,Male,No,1,Graduate,Yes,23041,2196,236673,180,1,Urban,Approved
+LN1889,CUST5889,Male,No,1,Graduate,Yes,2352,8060,401725,180,1,Urban,Approved
+LN1890,CUST5890,Male,No,3+,Graduate,Yes,11349,9952,354516,360,1,Semiurban,Rejected
+LN1891,CUST5891,Female,No,0,Graduate,Yes,11685,2573,208056,12,1,Rural,Rejected
+LN1892,CUST5892,Female,No,3+,Not Graduate,Yes,13254,285,105071,360,1,Semiurban,Approved
+LN1893,CUST5893,Female,Yes,3+,Graduate,No,12630,11288,443144,180,1,Semiurban,Approved
+LN1894,CUST5894,Male,No,1,Graduate,Yes,10302,983,339557,180,1,Urban,Approved
+LN1895,CUST5895,Female,No,0,Graduate,No,20952,7589,302619,360,1,Semiurban,Rejected
+LN1896,CUST5896,Female,No,3+,Graduate,Yes,19289,4627,92055,60,1,Semiurban,Rejected
+LN1897,CUST5897,Female,No,2,Graduate,No,4863,5501,467593,12,0,Rural,Rejected
+LN1898,CUST5898,Male,Yes,1,Not Graduate,No,23493,1061,383016,360,1,Urban,Rejected
+LN1899,CUST5899,Female,No,1,Not Graduate,Yes,5829,11923,434602,240,1,Rural,Approved
+LN1900,CUST5900,Male,No,2,Graduate,No,21000,10438,265711,120,1,Rural,Approved
+LN1901,CUST5901,Male,Yes,0,Not Graduate,Yes,6072,5017,70378,360,1,Urban,Rejected
+LN1902,CUST5902,Female,No,1,Graduate,No,21437,7970,401723,12,1,Semiurban,Approved
+LN1903,CUST5903,Female,No,0,Graduate,No,12450,14039,477831,180,0,Semiurban,Approved
+LN1904,CUST5904,Female,No,2,Graduate,No,20536,5580,53910,180,1,Rural,Approved
+LN1905,CUST5905,Female,No,3+,Not Graduate,No,23027,8448,335350,240,1,Urban,Rejected
+LN1906,CUST5906,Male,Yes,1,Graduate,Yes,11228,12083,147857,120,1,Urban,Approved
+LN1907,CUST5907,Female,Yes,0,Graduate,Yes,24679,10172,202949,240,1,Semiurban,Approved
+LN1908,CUST5908,Male,No,2,Graduate,Yes,7173,10603,369280,360,1,Semiurban,Approved
+LN1909,CUST5909,Female,No,0,Not Graduate,No,22671,858,260018,36,1,Semiurban,Rejected
+LN1910,CUST5910,Female,Yes,2,Not Graduate,No,16715,9879,255490,240,0,Urban,Rejected
+LN1911,CUST5911,Female,Yes,0,Graduate,Yes,19598,10865,277427,360,0,Semiurban,Approved
+LN1912,CUST5912,Female,No,1,Not Graduate,No,2806,9820,130078,180,1,Semiurban,Approved
+LN1913,CUST5913,Male,No,2,Graduate,Yes,2444,9093,437158,240,0,Urban,Rejected
+LN1914,CUST5914,Male,Yes,2,Not Graduate,Yes,7059,2091,445198,360,1,Rural,Rejected
+LN1915,CUST5915,Female,No,2,Graduate,Yes,13179,2840,115460,36,1,Urban,Approved
+LN1916,CUST5916,Male,Yes,2,Graduate,No,23524,12355,461860,360,1,Urban,Rejected
+LN1917,CUST5917,Male,No,0,Graduate,No,20690,12533,69017,60,1,Rural,Approved
+LN1918,CUST5918,Female,Yes,0,Graduate,Yes,7852,611,419238,180,1,Urban,Approved
+LN1919,CUST5919,Male,No,0,Graduate,No,23021,2467,472618,36,1,Urban,Approved
+LN1920,CUST5920,Male,Yes,3+,Not Graduate,No,22628,5783,373452,360,1,Urban,Rejected
+LN1921,CUST5921,Female,No,0,Not Graduate,Yes,6276,1614,397323,240,1,Urban,Approved
+LN1922,CUST5922,Male,No,0,Graduate,Yes,6096,8539,167060,360,1,Rural,Rejected
+LN1923,CUST5923,Female,No,1,Graduate,No,6725,8932,232827,360,1,Semiurban,Approved
+LN1924,CUST5924,Male,Yes,1,Not Graduate,Yes,24268,12896,294108,12,1,Rural,Approved
+LN1925,CUST5925,Female,Yes,3+,Not Graduate,Yes,17742,805,320932,12,1,Urban,Approved
+LN1926,CUST5926,Male,Yes,0,Not Graduate,Yes,7097,9026,342377,12,1,Urban,Rejected
+LN1927,CUST5927,Male,Yes,0,Graduate,No,9554,3350,62453,60,1,Rural,Approved
+LN1928,CUST5928,Male,No,3+,Graduate,No,24758,1323,169233,120,1,Urban,Approved
+LN1929,CUST5929,Female,Yes,3+,Not Graduate,No,16104,2009,216173,120,1,Urban,Rejected
+LN1930,CUST5930,Male,No,3+,Graduate,No,22849,7658,270947,12,1,Rural,Approved
+LN1931,CUST5931,Male,No,1,Not Graduate,No,8473,5202,372872,360,1,Urban,Rejected
+LN1932,CUST5932,Male,No,2,Not Graduate,Yes,12306,14056,139684,12,1,Rural,Approved
+LN1933,CUST5933,Male,Yes,1,Graduate,Yes,23734,8707,465023,360,0,Urban,Approved
+LN1934,CUST5934,Female,Yes,1,Not Graduate,No,2553,5265,205671,12,1,Urban,Rejected
+LN1935,CUST5935,Male,No,0,Not Graduate,Yes,21666,13779,493708,120,1,Rural,Approved
+LN1936,CUST5936,Female,Yes,3+,Not Graduate,No,24986,1162,129072,60,0,Rural,Approved
+LN1937,CUST5937,Female,Yes,3+,Graduate,No,3277,3301,283736,60,1,Semiurban,Rejected
+LN1938,CUST5938,Male,Yes,1,Graduate,No,24471,11700,146962,120,1,Semiurban,Rejected
+LN1939,CUST5939,Female,Yes,2,Not Graduate,Yes,14529,6216,465092,36,0,Semiurban,Approved
+LN1940,CUST5940,Male,No,1,Graduate,Yes,22632,4275,214648,180,0,Rural,Approved
+LN1941,CUST5941,Female,Yes,2,Not Graduate,Yes,22345,6983,489908,240,0,Semiurban,Approved
+LN1942,CUST5942,Male,No,1,Graduate,No,19828,7190,287921,360,1,Semiurban,Approved
+LN1943,CUST5943,Female,No,3+,Not Graduate,No,11017,517,109305,180,1,Rural,Approved
+LN1944,CUST5944,Male,Yes,1,Not Graduate,No,19782,8737,188987,240,1,Urban,Rejected
+LN1945,CUST5945,Male,No,0,Graduate,Yes,6274,6923,313757,360,1,Urban,Approved
+LN1946,CUST5946,Male,Yes,1,Not Graduate,No,11741,6237,431784,36,1,Urban,Rejected
+LN1947,CUST5947,Male,No,3+,Graduate,No,12021,8682,465169,60,1,Semiurban,Approved
+LN1948,CUST5948,Female,Yes,3+,Graduate,Yes,19540,3772,373179,360,1,Semiurban,Approved
+LN1949,CUST5949,Male,No,1,Graduate,No,23805,8752,345924,60,1,Rural,Rejected
+LN1950,CUST5950,Male,Yes,1,Graduate,Yes,13589,8604,374887,60,1,Semiurban,Approved
+LN1951,CUST5951,Male,No,2,Graduate,No,7149,14814,461305,12,1,Rural,Approved
+LN1952,CUST5952,Female,No,0,Not Graduate,No,8192,12044,200024,120,0,Urban,Approved
+LN1953,CUST5953,Male,No,3+,Not Graduate,No,23715,961,160513,36,1,Urban,Approved
+LN1954,CUST5954,Male,No,2,Graduate,No,20640,1007,237405,240,0,Semiurban,Approved
+LN1955,CUST5955,Male,Yes,2,Not Graduate,No,15505,5274,103629,36,1,Urban,Approved
+LN1956,CUST5956,Female,Yes,3+,Graduate,Yes,15844,3079,231482,12,1,Rural,Approved
+LN1957,CUST5957,Female,Yes,1,Not Graduate,Yes,23872,10234,360251,36,0,Urban,Approved
+LN1958,CUST5958,Male,Yes,2,Graduate,Yes,21885,13905,359453,12,0,Urban,Rejected
+LN1959,CUST5959,Male,No,3+,Graduate,Yes,13960,11581,129144,120,1,Urban,Approved
+LN1960,CUST5960,Male,Yes,3+,Graduate,Yes,20162,772,79677,120,0,Urban,Rejected
+LN1961,CUST5961,Male,Yes,3+,Graduate,Yes,17793,14823,256046,12,1,Rural,Approved
+LN1962,CUST5962,Male,Yes,0,Graduate,Yes,17866,12738,250245,240,0,Semiurban,Approved
+LN1963,CUST5963,Male,Yes,1,Graduate,Yes,2926,9836,347138,120,1,Semiurban,Approved
+LN1964,CUST5964,Female,Yes,3+,Not Graduate,Yes,15857,4743,394912,180,1,Semiurban,Rejected
+LN1965,CUST5965,Male,No,2,Not Graduate,No,18655,5850,61339,240,1,Semiurban,Approved
+LN1966,CUST5966,Female,Yes,3+,Not Graduate,No,18469,4995,208759,12,1,Semiurban,Approved
+LN1967,CUST5967,Female,No,3+,Not Graduate,No,6997,5640,152691,120,1,Urban,Approved
+LN1968,CUST5968,Male,Yes,1,Not Graduate,Yes,23694,13032,379484,60,1,Rural,Approved
+LN1969,CUST5969,Female,Yes,1,Graduate,Yes,16889,11827,205195,120,0,Rural,Approved
+LN1970,CUST5970,Male,Yes,1,Graduate,No,22549,3217,286520,60,1,Rural,Approved
+LN1971,CUST5971,Male,No,2,Graduate,No,12527,4359,263841,36,1,Semiurban,Approved
+LN1972,CUST5972,Male,Yes,0,Graduate,No,8433,378,107741,120,1,Rural,Approved
+LN1973,CUST5973,Male,Yes,0,Graduate,No,20624,4986,192329,240,1,Semiurban,Rejected
+LN1974,CUST5974,Female,No,0,Not Graduate,Yes,3066,10307,229237,60,1,Rural,Approved
+LN1975,CUST5975,Female,Yes,2,Not Graduate,No,18558,6217,106140,360,1,Rural,Approved
+LN1976,CUST5976,Female,No,0,Not Graduate,No,13991,14534,330741,360,0,Urban,Rejected
+LN1977,CUST5977,Male,Yes,0,Graduate,Yes,12770,3438,466906,120,1,Semiurban,Approved
+LN1978,CUST5978,Female,No,2,Not Graduate,Yes,4325,7713,260221,12,1,Urban,Rejected
+LN1979,CUST5979,Male,No,2,Graduate,Yes,2040,4645,368270,240,0,Rural,Approved
+LN1980,CUST5980,Female,No,3+,Graduate,No,14696,14688,177493,120,1,Urban,Approved
+LN1981,CUST5981,Male,Yes,0,Not Graduate,No,12054,12611,462316,12,1,Semiurban,Approved
+LN1982,CUST5982,Male,No,2,Graduate,No,17590,9550,126985,120,1,Semiurban,Approved
+LN1983,CUST5983,Male,Yes,2,Not Graduate,No,19592,5072,235744,36,0,Rural,Approved
+LN1984,CUST5984,Male,No,2,Not Graduate,No,13806,6189,344342,36,1,Rural,Approved
+LN1985,CUST5985,Female,No,1,Graduate,Yes,10209,3442,214225,180,1,Urban,Approved
+LN1986,CUST5986,Male,No,0,Graduate,Yes,12436,5165,211987,12,0,Urban,Rejected
+LN1987,CUST5987,Male,No,2,Not Graduate,No,2601,11719,436990,36,1,Rural,Approved
+LN1988,CUST5988,Male,Yes,0,Not Graduate,Yes,20134,1133,65340,60,0,Semiurban,Approved
+LN1989,CUST5989,Male,No,3+,Graduate,No,22093,10783,225500,120,1,Rural,Approved
+LN1990,CUST5990,Female,No,2,Graduate,No,22948,4430,440441,60,1,Rural,Approved
+LN1991,CUST5991,Female,Yes,2,Not Graduate,No,11594,386,281487,360,1,Urban,Approved
+LN1992,CUST5992,Female,No,1,Not Graduate,Yes,13637,3240,463372,60,1,Urban,Approved
+LN1993,CUST5993,Male,No,1,Not Graduate,Yes,3985,9109,451166,180,1,Semiurban,Rejected
+LN1994,CUST5994,Male,Yes,2,Graduate,Yes,17415,10657,413636,12,1,Urban,Approved
+LN1995,CUST5995,Male,No,3+,Graduate,Yes,12222,6270,443810,240,1,Semiurban,Approved
+LN1996,CUST5996,Male,No,3+,Graduate,No,8606,1188,457004,12,1,Semiurban,Rejected
+LN1997,CUST5997,Male,No,0,Graduate,Yes,3653,11302,71272,180,1,Urban,Approved
+LN1998,CUST5998,Male,Yes,2,Graduate,No,8970,12150,472770,180,1,Urban,Approved
+LN1999,CUST5999,Female,No,3+,Graduate,Yes,8344,9490,499859,240,0,Rural,Approved
