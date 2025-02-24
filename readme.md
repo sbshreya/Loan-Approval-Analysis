@@ -103,9 +103,3 @@ By running the SQL queries, you can expect insights like:
 - Which property area has the highest loan amounts?
 - Are self-employed applicants getting fewer approvals?
 
-## License
-This project is open-source and available for modification and learning purposes.
-
-## Contributions
-Contributions are welcome! Feel free to add new queries, optimize existing ones, or enhance the analysis.
-
